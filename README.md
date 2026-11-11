@@ -1,16 +1,2 @@
-                                                                                                          
-                                                                                                          
-___                        ___                                                                            
- MM                        `MM                                                     68b                    
- MM                         MM                                                     Y89                    
- MM____     ____     ____   MM   __ ___  __    __      ___   ____   ___ ____   ___ ___ ___  __     __     
- MMMMMMb   6MMMMb   6MMMMb. MM   d' `MM 6MMb  6MMb   6MMMMb  `MM(   )P' `MM(   )P' `MM `MM 6MMb   6MMbMMM 
- MM'  `Mb 6M'  `Mb 6M'   Mb MM  d'   MM69 `MM69 `Mb 8M'  `Mb  `MM` ,P    `MM` ,P    MM  MMM9 `Mb 6M'`Mb   
- MM    MM MM    MM MM    `' MM d'    MM'   MM'   MM     ,oMM   `MM,P      `MM,P     MM  MM'   MM MM  MM   
- MM    MM MMMMMMMM MM       MMdM.    MM    MM    MM ,6MM9'MM    `MM.       `MM.     MM  MM    MM YM.,M9   
- MM    MM MM       MM       MMPYM.   MM    MM    MM MM'   MM    d`MM.      d`MM.    MM  MM    MM  YMM9    
- MM.  ,M9 YM    d9 YM.   d9 MM  YM.  MM    MM    MM MM.  ,MM   d' `MM.    d' `MM.   MM  MM    MM (M       
-_MYMMMM9   YMMMM9   YMMMM9 _MM_  YM._MM_  _MM_  _MM_`YMMM9'Yb_d_  _)MM_ _d_  _)MM_ _MM__MM_  _MM_ YMMMMb. 
-                                                                                                 6M    Yb 
-                                                                                                 YM.   d9 
-                                                                                                  YMMMM9  
+<img width="1920" height="1080" alt="beckbeckmaxxing" src="https://github.com/user-attachments/assets/f7bc2b63-ab01-4522-8395-efec70e77b59" />
+A plataform to agentic backtest using historical tick data from Ctrader
