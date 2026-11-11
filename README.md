@@ -1,2 +1,2 @@
-<img width="1920" height="1080" alt="beckbeckmaxxing" src="https://github.com/user-attachments/assets/f7bc2b63-ab01-4522-8395-efec70e77b59" />
+<img width="1491" height="358" alt="image" src="https://github.com/user-attachments/assets/3e8f2b58-67bb-4109-ac2b-a46c327990df" />
 A plataform to agentic backtest using historical tick data from Ctrader
