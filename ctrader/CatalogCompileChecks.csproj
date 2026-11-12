@@ -1,0 +1,19 @@
+<Project>
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>obj/CatalogCompileChecks/</BaseIntermediateOutputPath>
+    <MSBuildProjectExtensionsPath>$(BaseIntermediateOutputPath)</MSBuildProjectExtensionsPath>
+  </PropertyGroup>
+  <Import Project="Sdk.props" Sdk="Microsoft.NET.Sdk" />
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <BaseOutputPath>bin/CatalogCompileChecks/</BaseOutputPath>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <Nullable>disable</Nullable><ImplicitUsings>disable</ImplicitUsings>
+    <AlgoBuild>false</AlgoBuild><AlgoPublish>false</AlgoPublish><NuGetAudit>false</NuGetAudit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="XauUsd*.cs" />
+    <PackageReference Include="cTrader.Automate" Version="1.0.21" />
+  </ItemGroup>
+  <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
+</Project>

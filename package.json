@@ -1,0 +1,16 @@
+{
+  "name": "beckmaxxing",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Frontend checks for the local Gold Research Lab dashboard",
+  "scripts": {
+    "test": "node --test tests/frontend.test.cjs",
+    "check": "node --check backtest_lab/app.js"
+  },
+  "devDependencies": {
+    "jsdom": "^26.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,25 @@
+<Project>
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>obj/XauUsdTickExporter/</BaseIntermediateOutputPath>
+    <MSBuildProjectExtensionsPath>$(BaseIntermediateOutputPath)</MSBuildProjectExtensionsPath>
+  </PropertyGroup>
+  <Import Project="Sdk.props" Sdk="Microsoft.NET.Sdk" />
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <BaseOutputPath>bin/XauUsdTickExporter/</BaseOutputPath>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <AlgoBuild>true</AlgoBuild>
+    <AlgoPublish>false</AlgoPublish>
+    <IncludeSource>true</IncludeSource>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="XauUsdTickExporter.cs" />
+    <PackageReference Include="cTrader.Automate" Version="1.0.21" />
+  </ItemGroup>
+  <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
+  <Target Name="NameTickExporterPackage" AfterTargets="Build" Condition="Exists('$(_AlgoFilePath)')">
+    <Copy SourceFiles="$(_AlgoFilePath)" DestinationFiles="$(OutDir)XauUsdTickExporter.algo" />
+  </Target>
+</Project>

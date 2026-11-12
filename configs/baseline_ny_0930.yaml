@@ -1,0 +1,32 @@
+experiment:
+  name: baseline_ny_0930_15m_close_confirmed_1r
+  instrument: XAUUSD
+  price_basis: mid
+
+session:
+  timezone: America/New_York
+  opening_time: "09:30"
+  opening_range_minutes: 15
+  entry_deadline: "12:00"
+  exit_time: "16:00"
+  max_missing_minutes: 0
+
+strategy:
+  confirmation: close
+  entry: next_bar_open
+  stop: opposite_range_boundary
+  target_r: 1.0
+  max_trades_per_session: 1
+  same_bar_policy: stop_first
+
+costs:
+  # USD per ounce. These are transparent baseline assumptions, not broker facts.
+  round_trip_spread: 0.30
+  slippage_per_side: 0.02
+  round_trip_commission: 0.00
+
+validation:
+  # Fixed before inspecting strategy results. Do not optimize on final_test.
+  train_end: "2016-12-31"
+  validation_end: "2021-12-31"
+

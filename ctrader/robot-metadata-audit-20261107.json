@@ -1,0 +1,1402 @@
+[
+  {
+    "source": "XauUsdMacroReleaseContinuation.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdMacroReleaseContinuation"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdMacroReleaseContinuation"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdMacroReleaseContinuation/Debug/net6.0/XAUUSD.algo.metadata": "e8228b6e8bdc20fdbe14379996a4ee1bb4b3125add7ab18298c7e114508f8509"
+    }
+  },
+  {
+    "source": "XauUsdTokyoPressureReversal.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdTokyoPressureReversal"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdTokyoPressureReversal"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdTokyoPressureReversal/Debug/net6.0/XAUUSD.algo.metadata": "958bcc102fd0005fc7e5f69ad90b9b63522c34db40acb2e29419ad7ac9cc109b"
+    }
+  },
+  {
+    "source": "XauUsdSessionContinuationStrength.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdSessionContinuationStrength"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdSessionContinuationStrength"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdSessionContinuationStrength/Debug/net6.0/XAUUSD.algo.metadata": "4d47298da595036a49d78f2c96df60fcb7541bd4d8deac6069151b4fbe2cfd1c"
+    }
+  },
+  {
+    "source": "XauUsdVolatilityReturnFeedback.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdVolatilityReturnFeedback"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdVolatilityReturnFeedback"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdVolatilityReturnFeedback/Debug/net6.0/XAUUSD.algo.metadata": "4d416c2edce8b22bcb4509bb605f12eaad0045c1faf9d152158ccd82cdc7bf80"
+    }
+  },
+  {
+    "source": "XauUsdMacroCalendarGate.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdMacroCalendarGate"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdMacroCalendarGate"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdMacroCalendarGate/Debug/net6.0/XAUUSD.algo.metadata": "1e62cb35355b5f6ba2be8d56fa7722384c3af19f8a2a8b8f89c9cba5cf071c89"
+    }
+  },
+  {
+    "source": "XauUsdEquityDrawdownFlightToGold.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdEquityDrawdownFlightToGold"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdEquityDrawdownFlightToGold"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdEquityDrawdownFlightToGold/Debug/net6.0/XAUUSD.algo.metadata": "900baa5ddcd7bac60e7e96fa38f483704cd80cc2712668c5d498c5f619a48023"
+    }
+  },
+  {
+    "source": "XauUsdClockVolatilityStopRisk.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdClockVolatilityStopRisk"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdClockVolatilityStopRisk"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdClockVolatilityStopRisk/Debug/net6.0/XAUUSD.algo.metadata": "d74b402880d5119dc5226fc19fc4dfedcfd8a8e66ab1887e3a5bfebfc1534a6e"
+    }
+  },
+  {
+    "source": "XauUsdEuropeanOverlapGate.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdEuropeanOverlapGate"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdEuropeanOverlapGate"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdEuropeanOverlapGate/Debug/net6.0/XAUUSD.algo.metadata": "ac324884662dd1b2481ab3da809fe6c99de43448de56f0f1bf0a79040c84caa2"
+    }
+  },
+  {
+    "source": "XauUsdDollarFixGoldReversal.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdDollarFixGoldReversal"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdDollarFixGoldReversal"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdDollarFixGoldReversal/Debug/net6.0/XAUUSD.algo.metadata": "722b54f8f047daca66502d479bbfa5865038d25eb4daf69e30d84e877407008f"
+    }
+  },
+  {
+    "source": "XauUsdTreasuryAuctionGoldRebound.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdTreasuryAuctionGoldRebound"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdTreasuryAuctionGoldRebound"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdTreasuryAuctionGoldRebound/Debug/net6.0/XAUUSD.algo.metadata": "3eac24803c26d50053e01d16e079b0f7b96529bf97ac4b699e5dc1cdab1b5bdc"
+    }
+  },
+  {
+    "source": "XauUsdEquityShockDecay.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdEquityShockDecay"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdEquityShockDecay"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdEquityShockDecay/Debug/net6.0/XAUUSD.algo.metadata": "9a3268dbfff7108a1f719023f89db44fcaf330e4b575aa2bf60b06b941eae0de"
+    }
+  },
+  {
+    "source": "XauUsdComexStateAsianResponse.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdComexStateAsianResponse"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdComexStateAsianResponse"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdComexStateAsianResponse/Debug/net6.0/XAUUSD.algo.metadata": "95cb2824e0f6de2a2f4015ea48d4d6ae2a68b745f4029faaffa335b56e9f5edf"
+    }
+  },
+  {
+    "source": "XauUsdLondonPmAuctionContinuation.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdLondonPmAuctionContinuation"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdLondonPmAuctionContinuation"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdLondonPmAuctionContinuation/Debug/net6.0/XAUUSD.algo.metadata": "cde9870c0541a29948042b6819f75620766c686a47c418bd58a8f52f92ec7186"
+    }
+  },
+  {
+    "source": "XauUsdRoundNumberRejection.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdRoundNumberRejection"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdRoundNumberRejection"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdRoundNumberRejection/Debug/net6.0/XAUUSD.algo.metadata": "e03fb0c847aa0e8d947bc04a4defa1fe55fc5325c29b3bc16a81257b82e36794"
+    }
+  },
+  {
+    "source": "XauUsdFomcEasingSurpriseContinuation.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdFomcEasingSurpriseContinuation"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdFomcEasingSurpriseContinuation"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdFomcEasingSurpriseContinuation/Debug/net6.0/XAUUSD.algo.metadata": "7202ffee4746f4c39d29a0a750b4fd73bd4e7f657b71d187dcab70c3690ddac4"
+    }
+  },
+  {
+    "source": "XauUsdPostJumpSpreadRecovery.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdPostJumpSpreadRecovery"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdPostJumpSpreadRecovery"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdPostJumpSpreadRecovery/Debug/net6.0/XAUUSD.algo.metadata": "3ae06e8d8a5ce2f6e73fe71a86a98c40f8b7687dcabbc1fcd23fe328d022e587"
+    }
+  },
+  {
+    "source": "XauUsdSemivarianceStopRisk.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdSemivarianceStopRisk"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdSemivarianceStopRisk"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdSemivarianceStopRisk/Debug/net6.0/XAUUSD.algo.metadata": "fd4f4277d131cb8083596d8ba92f488269264e18ec719bce2f40856642c19351"
+    }
+  },
+  {
+    "source": "XauUsdSurveyDispersionExposureGate.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdSurveyDispersionExposureGate"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdSurveyDispersionExposureGate"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdSurveyDispersionExposureGate/Debug/net6.0/XAUUSD.algo.metadata": "80a38b62d3a0f4bd232815f6da6e4ce5920d1e79270ccd54b99c4e295d6eef56"
+    }
+  },
+  {
+    "source": "XauUsdNegativeGoldNewsShort.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdNegativeGoldNewsShort"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdNegativeGoldNewsShort"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdNegativeGoldNewsShort/Debug/net6.0/XAUUSD.algo.metadata": "cd47ef200bda140d7e60bf66f881aef9aaf6ccc230fe224fccac1004980448fa"
+    }
+  },
+  {
+    "source": "XauUsdWeeklyBoundaryQuoteGate.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdWeeklyBoundaryQuoteGate"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdWeeklyBoundaryQuoteGate"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdWeeklyBoundaryQuoteGate/Debug/net6.0/XAUUSD.algo.metadata": "c96b2512cd961ef6911004000f85c85d73b0753c0e960b30cc67cbc9a216aad0"
+    }
+  },
+  {
+    "source": "XauUsdShanghaiNightTransfer.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdShanghaiNightTransfer"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdShanghaiNightTransfer"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdShanghaiNightTransfer/Debug/net6.0/XAUUSD.algo.metadata": "2a4b4f8e594b732dc6ad9f5932a77ba1d41f491a76286818cf17bfd6eb19f774"
+    }
+  },
+  {
+    "source": "XauUsdUsMiddayLateTransfer.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdUsMiddayLateTransfer"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdUsMiddayLateTransfer"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdUsMiddayLateTransfer/Debug/net6.0/XAUUSD.algo.metadata": "8958341a5de8953a47fad4bdc921ca0edcbcafc217fda1b5fbd4fce908fded8b"
+    }
+  },
+  {
+    "source": "XauUsdFuturesImbalanceNextBar.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdFuturesImbalanceNextBar"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdFuturesImbalanceNextBar"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdFuturesImbalanceNextBar/Debug/net6.0/XAUUSD.algo.metadata": "351036f669a347ccf503d588971447a41f7af7d52be94d1658ce1e4c1c1502d2"
+    }
+  },
+  {
+    "source": "XauUsdLeveragedFundRebalance.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdLeveragedFundRebalance"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdLeveragedFundRebalance"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdLeveragedFundRebalance/Debug/net6.0/XAUUSD.algo.metadata": "fa63d885204fb9419987b3b61c1d3c693267f5467d20514b7bea419665bc9a11"
+    }
+  },
+  {
+    "source": "XauUsdMarginIncreaseLiquidation.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdMarginIncreaseLiquidation"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdMarginIncreaseLiquidation"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdMarginIncreaseLiquidation/Debug/net6.0/XAUUSD.algo.metadata": "f8d64cff36453e840bc0c0f9d20c2138fe8bac6111dae57f2b6ae621b073b118"
+    }
+  },
+  {
+    "source": "XauUsdFomcUncertaintyResolution.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdFomcUncertaintyResolution"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdFomcUncertaintyResolution"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdFomcUncertaintyResolution/Debug/net6.0/XAUUSD.algo.metadata": "84519527c2356659fb0d9f6c4f268d038ed990a5ce88da583510d462d574fbd8"
+    }
+  },
+  {
+    "source": "XauUsdShanghaiSegmentedVariance.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdShanghaiSegmentedVariance"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdShanghaiSegmentedVariance"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdShanghaiSegmentedVariance/Debug/net6.0/XAUUSD.algo.metadata": "d39ed9e7d5f8ec9083945ecfa61d043bb28867f424c7de3192711e12c939a064"
+    }
+  },
+  {
+    "source": "XauUsdCentralBankInformationShock.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdCentralBankInformationShock"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdCentralBankInformationShock"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdCentralBankInformationShock/Debug/net6.0/XAUUSD.algo.metadata": "0b9774c47a4faf7fd2e148ed05b7f78224897ed832e8de2b2912a5db8dbdde8e"
+    }
+  },
+  {
+    "source": "XauUsdQuoteWithdrawalTailRisk.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdQuoteWithdrawalTailRisk"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdQuoteWithdrawalTailRisk"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdQuoteWithdrawalTailRisk/Debug/net6.0/XAUUSD.algo.metadata": "17b56cae4bce1f9e430f78a0ec861c6f0198e6fd9691e1b40466cf7f2009520c"
+    }
+  },
+  {
+    "source": "XauUsdGvzIncrementalVariance.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdGvzIncrementalVariance"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdGvzIncrementalVariance"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdGvzIncrementalVariance/Debug/net6.0/XAUUSD.algo.metadata": "14345361f30d1abd699bd0b8ea1241b5fc206a55695a2cddca9a921325ae498d"
+    }
+  },
+  {
+    "source": "XauUsdJumpShareTailRisk.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdJumpShareTailRisk"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdJumpShareTailRisk"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdJumpShareTailRisk/Debug/net6.0/XAUUSD.algo.metadata": "28eca97e5cdc90597ecf1ee76b5a4cef200229a43cd767fa03f7e47c6a4edc07"
+    }
+  },
+  {
+    "source": "XauUsdPolicyUncertaintyJumpHazard.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdPolicyUncertaintyJumpHazard"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdPolicyUncertaintyJumpHazard"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdPolicyUncertaintyJumpHazard/Debug/net6.0/XAUUSD.algo.metadata": "6bf2f2d6d86bb515dcbd18484c8514fbb74b8b5a0375a112c7e54a993cb8b760"
+    }
+  },
+  {
+    "source": "XauUsdIndexRollExecution.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdIndexRollExecution"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdIndexRollExecution"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdIndexRollExecution/Debug/net6.0/XAUUSD.algo.metadata": "7787f847b45a8fef679d79cfb81c18b751b04781dd78727a6d1f221a961b036d"
+    }
+  },
+  {
+    "source": "XauUsdShanghaiPremiumLondonDemand.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdShanghaiPremiumLondonDemand"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdShanghaiPremiumLondonDemand"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdShanghaiPremiumLondonDemand/Debug/net6.0/XAUUSD.algo.metadata": "9626ff874e195be28093e7d9cd67ee66565763e6d3e4d26e07df419899106083"
+    }
+  },
+  {
+    "source": "XauUsdDealerGammaFeedback.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdDealerGammaFeedback"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdDealerGammaFeedback"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdDealerGammaFeedback/Debug/net6.0/XAUUSD.algo.metadata": "40cb6726dff5f2f99b8febd5767354e38a36f2d8d8d44012d6afe34776131c49"
+    }
+  },
+  {
+    "source": "XauUsdSlowMovingAverage.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdSlowMovingAverage"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdSlowMovingAverage"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdSlowMovingAverage/Debug/net6.0/XAUUSD.algo.metadata": "9e102460fe9a2895fc6ca455c967df32052787dbd5651e193a3457753c055824"
+    }
+  },
+  {
+    "source": "XauUsdVwapPullbackContinuation.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdVwapPullbackContinuation"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdVwapPullbackContinuation"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdVwapPullbackContinuation/Debug/net6.0/XAUUSD.algo.metadata": "db2c5616d1cb198c37531995b357a016d9b8fb9148ea478cc3b2299c723c5cb0"
+    }
+  },
+  {
+    "source": "XauUsdCandleConfirmedEmaExit.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdCandleConfirmedEmaExit"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdCandleConfirmedEmaExit"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdCandleConfirmedEmaExit/Debug/net6.0/XAUUSD.algo.metadata": "c48da43d3a86712dded309634ab21686aaf6b7d2678ca3d85a81720ace37b827"
+    }
+  },
+  {
+    "source": "XauUsdRealizedSkewQuantile.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdRealizedSkewQuantile"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdRealizedSkewQuantile"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdRealizedSkewQuantile/Debug/net6.0/XAUUSD.algo.metadata": "84e88aa2944edcea3d8dada04bfb7660612aa02adcffd44f213c23570d49466e"
+    }
+  },
+  {
+    "source": "XauUsdEntropySignPersistence.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdEntropySignPersistence"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdEntropySignPersistence"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdEntropySignPersistence/Debug/net6.0/XAUUSD.algo.metadata": "1d2c7fa5bf2fe3c8354642193edeff74cbff218cf2a04c40a9b3f539ade90c70"
+    }
+  },
+  {
+    "source": "XauUsdDollarShockResidualShort.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdDollarShockResidualShort"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdDollarShockResidualShort"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdDollarShockResidualShort/Debug/net6.0/XAUUSD.algo.metadata": "e1117ecaea8c45761ea41c2172dfd360950a872719d72eec7021f8583dddd3bc"
+    }
+  },
+  {
+    "source": "XauUsdTransactionDurationVariance.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdTransactionDurationVariance"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdTransactionDurationVariance"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdTransactionDurationVariance/Debug/net6.0/XAUUSD.algo.metadata": "1882b3d1d43c81f0efb03005310ca675a11fe5cbe0376d26e95f147017ab1fa7"
+    }
+  },
+  {
+    "source": "XauUsdStandingDepthImbalance.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdStandingDepthImbalance"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdStandingDepthImbalance"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdStandingDepthImbalance/Debug/net6.0/XAUUSD.algo.metadata": "c1871ccbd7de04f94748237cd776c332ce3d0ac019e9e574dc55321564aaf587"
+    }
+  },
+  {
+    "source": "XauUsdSplitExecution.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdSplitExecution"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdSplitExecution"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdSplitExecution/Debug/net6.0/XAUUSD.algo.metadata": "061af5277125b5c82addf1370595ac3372f31f15e1b0a0c897d0b76880665d58"
+    }
+  },
+  {
+    "source": "XauUsdPassiveEntrySelection.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdPassiveEntrySelection"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdPassiveEntrySelection"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdPassiveEntrySelection/Debug/net6.0/XAUUSD.algo.metadata": "64c44bd659cdc5dca590ef2ab52aa672bfc635c2e9539b1eff1064943aed7d8f"
+    }
+  },
+  {
+    "source": "XauUsdPreBreakExecutionGate.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdPreBreakExecutionGate"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdPreBreakExecutionGate"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdPreBreakExecutionGate/Debug/net6.0/XAUUSD.algo.metadata": "751de17e939587c2967a711225321ce699ac9dbdd4d9c412c34877f3dfeb06dc"
+    }
+  },
+  {
+    "source": "XauUsdEquityDepthCostGate.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdEquityDepthCostGate"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdEquityDepthCostGate"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdEquityDepthCostGate/Debug/net6.0/XAUUSD.algo.metadata": "eb48c0e57d4e8882b4066d7c09327fc9db9afda231ada2852d4e0f88d5f82d63"
+    }
+  },
+  {
+    "source": "XauUsdImpliedSkewDirection.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdImpliedSkewDirection"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdImpliedSkewDirection"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdImpliedSkewDirection/Debug/net6.0/XAUUSD.algo.metadata": "f7f4dff21754a8457f034715a09aaf416097ea889af4148e69a86eedb71d7418"
+    }
+  },
+  {
+    "source": "XauUsdOilGoldCovarianceTail.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdOilGoldCovarianceTail"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdOilGoldCovarianceTail"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdOilGoldCovarianceTail/Debug/net6.0/XAUUSD.algo.metadata": "6742646d6a46eddd19c17381d0ae029404380ad032a289e25a58af15d59a0d1b"
+    }
+  },
+  {
+    "source": "XauUsdSentimentReleaseLiquidityGate.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdSentimentReleaseLiquidityGate"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdSentimentReleaseLiquidityGate"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdSentimentReleaseLiquidityGate/Debug/net6.0/XAUUSD.algo.metadata": "9863fd5eba314caddbab84668cbb8d507f4ea7d509428f57dfdb4d999f796bee"
+    }
+  },
+  {
+    "source": "XauUsdCashStressFlightComparison.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdCashStressFlightComparison"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdCashStressFlightComparison"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdCashStressFlightComparison/Debug/net6.0/XAUUSD.algo.metadata": "a1323af17096c8d7e70afa4a04768078bc739d9591784fdb62b52467ea6a7c13"
+    }
+  },
+  {
+    "source": "XauUsdRealYieldOpportunityCost.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdRealYieldOpportunityCost"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdRealYieldOpportunityCost"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdRealYieldOpportunityCost/Debug/net6.0/XAUUSD.algo.metadata": "f341cf705a33bd4c587e9fa397f3192f343c426394ce1d76fc9ca3bee946252c"
+    }
+  },
+  {
+    "source": "XauUsdPayrollComponentConflict.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdPayrollComponentConflict"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdPayrollComponentConflict"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdPayrollComponentConflict/Debug/net6.0/XAUUSD.algo.metadata": "116f264a00cd5fbe0750b3b07c03770725093a9fd144970dc7cf247190e93cf8"
+    }
+  },
+  {
+    "source": "XauUsdNewsAttentionJumpHazard.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdNewsAttentionJumpHazard"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdNewsAttentionJumpHazard"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdNewsAttentionJumpHazard/Debug/net6.0/XAUUSD.algo.metadata": "aba53a309551564efca8717861b02f2054998c4cfbec8e9486cbe239b04c0169"
+    }
+  },
+  {
+    "source": "XauUsdSelfExcitingJumpHazard.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdSelfExcitingJumpHazard"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdSelfExcitingJumpHazard"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdSelfExcitingJumpHazard/Debug/net6.0/XAUUSD.algo.metadata": "3f63c5beeb56d19bd11ab23e797dc61e761a08056a8ddbb579e38877ef33fc8a"
+    }
+  },
+  {
+    "source": "XauUsdSettlementWindowExecution.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdSettlementWindowExecution"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdSettlementWindowExecution"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdSettlementWindowExecution/Debug/net6.0/XAUUSD.algo.metadata": "7216ffa71ad32002d6873f2845c6610b33c03474a743dcd116e308b6edef1c7a"
+    }
+  },
+  {
+    "source": "XauUsdFuturesInterruptionExecution.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdFuturesInterruptionExecution"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdFuturesInterruptionExecution"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdFuturesInterruptionExecution/Debug/net6.0/XAUUSD.algo.metadata": "922099aba6229f57d745a7d7d75fc6e688881c3751d5f63c5255ef3b67408f59"
+    }
+  },
+  {
+    "source": "XauUsdEtfPremiumDemand.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdEtfPremiumDemand"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdEtfPremiumDemand"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdEtfPremiumDemand/Debug/net6.0/XAUUSD.algo.metadata": "18b843524a98d29e3a10874508009fb4d9bcd52ab9c7e017afce7e17dc7ca046"
+    }
+  },
+  {
+    "source": "XauUsdDeliveryBasisExecutionGate.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdDeliveryBasisExecutionGate"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdDeliveryBasisExecutionGate"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdDeliveryBasisExecutionGate/Debug/net6.0/XAUUSD.algo.metadata": "6e674a3cbd6c93f2f813b646d5033d9c1113ff2fab3393d8a196ad8086ff5dd8"
+    }
+  },
+  {
+    "source": "XauUsdLeaseRateExecutionAsymmetry.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdLeaseRateExecutionAsymmetry"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdLeaseRateExecutionAsymmetry"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdLeaseRateExecutionAsymmetry/Debug/net6.0/XAUUSD.algo.metadata": "d3d95b6bcd2b3d1b30e6c01d583e20fb3033507ea5e3a40673a5420d5d7155ff"
+    }
+  },
+  {
+    "source": "XauUsdAnnualIndexWeightReset.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdAnnualIndexWeightReset"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdAnnualIndexWeightReset"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdAnnualIndexWeightReset/Debug/net6.0/XAUUSD.algo.metadata": "a7047229e3b55b1b721a33e81d89efc42fcb527344029cdba49ef45649baafa0"
+    }
+  },
+  {
+    "source": "XauUsdReserveQuantitySurprise.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdReserveQuantitySurprise"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdReserveQuantitySurprise"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdReserveQuantitySurprise/Debug/net6.0/XAUUSD.algo.metadata": "bb06f8c3ad37acde1a8e32c33ea434f937b341bdfb236f8aeb123c7eac9ba86a"
+    }
+  },
+  {
+    "source": "XauUsdPublishedAuctionImbalance.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdPublishedAuctionImbalance"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdPublishedAuctionImbalance"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdPublishedAuctionImbalance/Debug/net6.0/XAUUSD.algo.metadata": "c8b4a9ddd0b8c9fe233561bbad4ecb660aa48de4cdecfa52bbd9fc8b0449e2bc"
+    }
+  },
+  {
+    "source": "XauUsdAuctionCompletionWait.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdAuctionCompletionWait"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdAuctionCompletionWait"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdAuctionCompletionWait/Debug/net6.0/XAUUSD.algo.metadata": "60d13362b38d4f447d642daf97df3f9d012146e2e59968c78978a2c638f87b26"
+    }
+  },
+  {
+    "source": "XauUsdCryptoLiquidationTail.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdCryptoLiquidationTail"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdCryptoLiquidationTail"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdCryptoLiquidationTail/Debug/net6.0/XAUUSD.algo.metadata": "05f9110d1a3e9455c664ee3498743615cd82762061eb6fc718a9b33ce3259b78"
+    }
+  },
+  {
+    "source": "XauUsdGeopoliticalThreatHazard.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdGeopoliticalThreatHazard"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdGeopoliticalThreatHazard"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdGeopoliticalThreatHazard/Debug/net6.0/XAUUSD.algo.metadata": "1c713326df05e82c9b3790a8a334aabafbeb70b9ae24d85fef2ef3aa222eb7b4"
+    }
+  },
+  {
+    "source": "XauUsdPersistentTradeSignFlow.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdPersistentTradeSignFlow"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdPersistentTradeSignFlow"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdPersistentTradeSignFlow/Debug/net6.0/XAUUSD.algo.metadata": "864d525c37696f5600110fb8a6f3b6f92ebe8c1ce62c9c35ea843ddd5a886cd8"
+    }
+  },
+  {
+    "source": "XauUsdRepeatedTradeSizeFlow.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdRepeatedTradeSizeFlow"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdRepeatedTradeSizeFlow"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdRepeatedTradeSizeFlow/Debug/net6.0/XAUUSD.algo.metadata": "6a986ebc93935dc9b3c59bd1a2a48f5fe5570afa03f0529235e95eafc2957f92"
+    }
+  },
+  {
+    "source": "XauUsdHiddenSupplyReplenishment.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdHiddenSupplyReplenishment"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdHiddenSupplyReplenishment"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdHiddenSupplyReplenishment/Debug/net6.0/XAUUSD.algo.metadata": "31cf826ed03083cdd805fb29fcc46c75c8a3f4c0cd2a402566e22f80452dfb05"
+    }
+  },
+  {
+    "source": "XauUsdAggressiveSweepReversal.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdAggressiveSweepReversal"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdAggressiveSweepReversal"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdAggressiveSweepReversal/Debug/net6.0/XAUUSD.algo.metadata": "bd54c6858ed23150f29982726905e2971234eeed65879ff19336c70d26158800"
+    }
+  },
+  {
+    "source": "XauUsdDealerInventoryQuoteSkew.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdDealerInventoryQuoteSkew"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdDealerInventoryQuoteSkew"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdDealerInventoryQuoteSkew/Debug/net6.0/XAUUSD.algo.metadata": "9ede251bc415f8fd3562847dfd3affdc84c05e8926e8b7ec79d937a7d258869a"
+    }
+  },
+  {
+    "source": "XauUsdLondonHolidayExecutionGate.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdLondonHolidayExecutionGate"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdLondonHolidayExecutionGate"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdLondonHolidayExecutionGate/Debug/net6.0/XAUUSD.algo.metadata": "123b3c1ddf557471281853a906120ecaa20aea1deac2bf3fd6ee6955bc209623"
+    }
+  },
+  {
+    "source": "XauUsdNy15OrbBaseline.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdNy15OrbBaseline"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdNy15OrbBaseline"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdNy15OrbBaseline/Debug/net6.0/XAUUSD.algo.metadata": "f8d2cb491dcf7f1d33498555f52072680b418d4ed089aeefe167831024621562"
+    }
+  },
+  {
+    "source": "XauUsdGcCloseControls.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdGcCloseControlsV1"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdGcCloseControlsV1"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdGcCloseControls/Debug/net6.0/XAUUSD.algo.metadata": "14cc44842b2d228483bcaeb50f5c23a37a78af85cff3788b3cd59390c69e7b60"
+    }
+  },
+  {
+    "source": "XauUsdOvernightDrift.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdOvernightDrift"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdOvernightDrift"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdOvernightDrift/Debug/net6.0/XAUUSD.algo.metadata": "83ca412ee544e0895ff4c82a5b34eba8f5e2cbed07a9745b33359776a7a91340"
+    }
+  },
+  {
+    "source": "XauUsdAsiaReplenishment.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdAsiaReplenishment"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdAsiaReplenishment"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdAsiaReplenishment/Debug/net6.0/XAUUSD.algo.metadata": "4b19df7f8d5cad3b06d6b7b7a52cce526e286cf7e69a194dcecfec51f90574a5"
+    }
+  },
+  {
+    "source": "XauUsdFuturesSpotCatchupDiagnostic.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdFuturesSpotCatchupDiagnostic"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdFuturesSpotCatchupDiagnostic"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdFuturesSpotCatchupDiagnostic/Debug/net6.0/XAUUSD.algo.metadata": "fb75e75ecf504e90aae384cc881d73da46daa32137e6f7f46aa448840cd1bce6"
+    }
+  },
+  {
+    "source": "XauUsdLondonFailedBreakout.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdLondonFailedBreakout"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdLondonFailedBreakout"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdLondonFailedBreakout/Debug/net6.0/XAUUSD.algo.metadata": "30d98f75d6ffafeee3256403320e6bf3e583b1860f0e05afdf28ec646931e111"
+    }
+  },
+  {
+    "source": "XauUsdVwapBandReversion.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdVwapBandReversion"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdVwapBandReversion"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdVwapBandReversion/Debug/net6.0/XAUUSD.algo.metadata": "8c6d3f39f67213f2c27d29397b081cfecb71be1c99dd459da8df05ede50bcf65"
+    }
+  },
+  {
+    "source": "XauUsdMeasuredStopCascade.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdMeasuredStopCascade"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdMeasuredStopCascade"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdMeasuredStopCascade/Debug/net6.0/XAUUSD.algo.metadata": "d284a50654d00aebbaca413cad6d7d5a8afbdda5d933c51078490f33160ce593"
+    }
+  },
+  {
+    "source": "XauUsdSlowVarianceMemory.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdSlowVarianceMemory"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdSlowVarianceMemory"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdSlowVarianceMemory/Debug/net6.0/XAUUSD.algo.metadata": "c6b3ec4cf526a0458c88d8361a73f6636a6933da3412f1b8829895838883c700"
+    }
+  },
+  {
+    "source": "XauUsdCommonInformationCojump.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdCommonInformationCojump"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdCommonInformationCojump"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdCommonInformationCojump/Debug/net6.0/XAUUSD.algo.metadata": "b4db0e4f5cf449040e9dc70707bfcf9382b9cf73e86d7a6bb19f9260466affe7"
+    }
+  },
+  {
+    "source": "XauUsdCarryCurvePremium.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdCarryCurvePremium"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdCarryCurvePremium"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdCarryCurvePremium/Debug/net6.0/XAUUSD.algo.metadata": "f6f377ddd5775c9128109c8ab8ce26d7327345eb0e6df31a899a15eec25a53b0"
+    }
+  },
+  {
+    "source": "XauUsdProducerHedgingPremium.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdProducerHedgingPremium"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdProducerHedgingPremium"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdProducerHedgingPremium/Debug/net6.0/XAUUSD.algo.metadata": "b4bc04d3a9743a15c1f5ae301c1ec4c3ddd89ba9fa420cf661a098c24ad2b8bc"
+    }
+  },
+  {
+    "source": "XauUsdMonthEndPortfolioDemand.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdMonthEndPortfolioDemand"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdMonthEndPortfolioDemand"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdMonthEndPortfolioDemand/Debug/net6.0/XAUUSD.algo.metadata": "66099c386fc03e94d9a051e514a455357fffbfec066ebb232f4fccab32ce985f"
+    }
+  },
+  {
+    "source": "XauUsdHolderGainsNewsDrift.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdHolderGainsNewsDrift"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdHolderGainsNewsDrift"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdHolderGainsNewsDrift/Debug/net6.0/XAUUSD.algo.metadata": "07270226bc43b173d254803b4e500ff85617b90fd829689d4aedac6a929114e7"
+    }
+  },
+  {
+    "source": "XauUsdBidAskBounceNull.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdBidAskBounceNull"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdBidAskBounceNull"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdBidAskBounceNull/Debug/net6.0/XAUUSD.algo.metadata": "11549230279e04c70f17fbe717df2c182496e7605e9df77e9bc40fe117ce4ab9"
+    }
+  },
+  {
+    "source": "XauUsdOptionTermStructureHazard.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdOptionTermStructureHazard"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdOptionTermStructureHazard"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdOptionTermStructureHazard/Debug/net6.0/XAUUSD.algo.metadata": "0c3e70b057d1d9652f8bd81525cc45da0902d49c28c219bc5245d8cb82f5678d"
+    }
+  },
+  {
+    "source": "XauUsdUpsideVariancePremium.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdUpsideVariancePremium"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdUpsideVariancePremium"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdUpsideVariancePremium/Debug/net6.0/XAUUSD.algo.metadata": "a73e669cac575562de762a210d9648e2f535302088946777c643fa82f0b87459"
+    }
+  },
+  {
+    "source": "XauUsdPreFomcDrift.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdPreFomcDrift"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdPreFomcDrift"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdPreFomcDrift/Debug/net6.0/XAUUSD.algo.metadata": "4daf8f3c559fe8d819bd45ecf97f1c77735aa0e1ba1abcd8facd61a030172f10"
+    }
+  },
+  {
+    "source": "XauUsdCumulativeLossInterruption.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdCumulativeLossInterruption"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdCumulativeLossInterruption"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdCumulativeLossInterruption/Debug/net6.0/XAUUSD.algo.metadata": "ca9aeea32acc4e396e20eb31c53d45ab4f93e04f0c72e3dcbe1aa2b012327450"
+    }
+  },
+  {
+    "source": "XauUsdPositionHysteresis.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdPositionHysteresis"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdPositionHysteresis"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdPositionHysteresis/Debug/net6.0/XAUUSD.algo.metadata": "7ffa547776c2cdd8ab12153e5bcedcaa4e75efd3b5ba380b95189b7abbcf6aab"
+    }
+  },
+  {
+    "source": "XauUsdRiskConstrainedGrowth.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdRiskConstrainedGrowth"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdRiskConstrainedGrowth"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdRiskConstrainedGrowth/Debug/net6.0/XAUUSD.algo.metadata": "7c03f1e2233cbb4a72c8b1f882ae011691f09d8490e5fa0e281ed48c8a4452ec"
+    }
+  },
+  {
+    "source": "XauUsdCovarianceRiskCap.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdCovarianceRiskCap"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdCovarianceRiskCap"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdCovarianceRiskCap/Debug/net6.0/XAUUSD.algo.metadata": "5e621a7d94e59b2bbb767c228cc93903178ae5c9310f612332c7887a41e7933b"
+    }
+  },
+  {
+    "source": "XauUsdResetHeadroomPolicy.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdResetHeadroomPolicy"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdResetHeadroomPolicy"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdResetHeadroomPolicy/Debug/net6.0/XAUUSD.algo.metadata": "16b97bf9d0d2bbc3be0a382dbcd773d4be60ec070ad7bd8159005568ea477faf"
+    }
+  },
+  {
+    "source": "XauUsdSameClockPersistence.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdSameClockPersistence"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdSameClockPersistence"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdSameClockPersistence/Debug/net6.0/XAUUSD.algo.metadata": "759d96662f42f3e08175cde619be74760613e87b5c7ae1c9aa1607a99949056e"
+    }
+  },
+  {
+    "source": "XauUsdOpenInterestContraction.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdOpenInterestContraction"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdOpenInterestContraction"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdOpenInterestContraction/Debug/net6.0/XAUUSD.algo.metadata": "e79c801909e36cf901b1bf81a1a2d9eddd04413edf84b17a4f304f0995c3aa9b"
+    }
+  },
+  {
+    "source": "XauUsdQuoteAgeExecutionGate.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdQuoteAgeExecutionGate"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdQuoteAgeExecutionGate"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdQuoteAgeExecutionGate/Debug/net6.0/XAUUSD.algo.metadata": "0f440f537037c5593f672a5d4874495f6a45e2780f2b62d83b846102e5fc216f"
+    }
+  },
+  {
+    "source": "XauUsdQuotedOptionHedge.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdQuotedOptionHedge"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdQuotedOptionHedge"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdQuotedOptionHedge/Debug/net6.0/XAUUSD.algo.metadata": "ebfcafaae18493923cd0a4e4be7a2bab7a8d95634b961651d01bc2199a5cce31"
+    }
+  },
+  {
+    "source": "XauUsdStopLimitProtection.cs",
+    "expected_robots": [
+      "cAlgo.Robots.XauUsdStopLimitProtection"
+    ],
+    "actual_robots": [
+      "cAlgo.Robots.XauUsdStopLimitProtection"
+    ],
+    "metadata_matches": true,
+    "source_current": true,
+    "metadata_sha256": {
+      "ctrader/bin/Packaged/XauUsdStopLimitProtection/Debug/net6.0/XAUUSD.algo.metadata": "7eb589f08d6e7b99b1bd3a1b619ada960506f645ff8763c6d35a1939177cb8f0"
+    }
+  }
+]

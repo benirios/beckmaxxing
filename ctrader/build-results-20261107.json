@@ -1,0 +1,97 @@
+[
+  {
+    "source": "XauUsdGvzIncrementalVariance.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.97\n"
+  },
+  {
+    "source": "XauUsdJumpShareTailRisk.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.62\n"
+  },
+  {
+    "source": "XauUsdPolicyUncertaintyJumpHazard.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.49\n"
+  },
+  {
+    "source": "XauUsdShanghaiPremiumLondonDemand.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.54\n"
+  },
+  {
+    "source": "XauUsdDealerGammaFeedback.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.52\n"
+  },
+  {
+    "source": "XauUsdMacroReleaseContinuation.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.45\n"
+  },
+  {
+    "source": "XauUsdSessionContinuationStrength.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.48\n"
+  },
+  {
+    "source": "XauUsdDollarFixGoldReversal.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.49\n"
+  },
+  {
+    "source": "XauUsdTreasuryAuctionGoldRebound.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.50\n"
+  },
+  {
+    "source": "XauUsdVolatilityReturnFeedback.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.98\n"
+  },
+  {
+    "source": "XauUsdClockVolatilityStopRisk.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n/Users/beni/Dev/XAUUSD/ctrader/XauUsdClockVolatilityStopRisk.cs(21,148): warning CS0649: Field 'XauUsdClockVolatilityStopRisk.Opportunity.NegativeShare' is never assigned to, and will always have its default value 0 [/Users/beni/Dev/XAUUSD/ctrader/XauUsdClockVolatilityStopRisk.csproj]\n\nBuild succeeded.\n\n/Users/beni/Dev/XAUUSD/ctrader/XauUsdClockVolatilityStopRisk.cs(21,148): warning CS0649: Field 'XauUsdClockVolatilityStopRisk.Opportunity.NegativeShare' is never assigned to, and will always have its default value 0 [/Users/beni/Dev/XAUUSD/ctrader/XauUsdClockVolatilityStopRisk.csproj]\n    1 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:22.00\n"
+  },
+  {
+    "source": "XauUsdComexStateAsianResponse.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:22.14\n"
+  },
+  {
+    "source": "XauUsdSemivarianceStopRisk.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.67\n"
+  },
+  {
+    "source": "XauUsdEquityShockDecay.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.48\n"
+  },
+  {
+    "source": "XauUsdMacroCalendarGate.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:21.97\n"
+  },
+  {
+    "source": "XauUsdEuropeanOverlapGate.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:22.11\n"
+  },
+  {
+    "source": "XauUsdPostJumpSpreadRecovery.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:03:04.14\n"
+  },
+  {
+    "source": "XauUsdWeeklyBoundaryQuoteGate.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:14:30.78\n"
+  },
+  {
+    "source": "XauUsdIndexRollExecution.cs",
+    "exit_code": 0,
+    "output": "CSSM_ModuleLoad(): One or more parameters passed to a function were not valid.\n\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:22.04\n"
+  }
+]

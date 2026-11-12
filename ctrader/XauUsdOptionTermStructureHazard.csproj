@@ -1,0 +1,19 @@
+<Project>
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>obj/XauUsdOptionTermStructureHazard/</BaseIntermediateOutputPath>
+    <MSBuildProjectExtensionsPath>$(BaseIntermediateOutputPath)</MSBuildProjectExtensionsPath>
+  </PropertyGroup>
+  <Import Project="Sdk.props" Sdk="Microsoft.NET.Sdk" />
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <BaseOutputPath>bin/XauUsdOptionTermStructureHazard/</BaseOutputPath>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <Nullable>disable</Nullable><ImplicitUsings>disable</ImplicitUsings>
+    <AlgoBuild>true</AlgoBuild><AlgoPublish>false</AlgoPublish><IncludeSource>true</IncludeSource>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="XauUsdOptionTermStructureHazard.cs" />
+    <PackageReference Include="cTrader.Automate" Version="1.0.21" />
+  </ItemGroup>
+  <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
+</Project>

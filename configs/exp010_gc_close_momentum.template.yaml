@@ -1,0 +1,47 @@
+# DEPRECATED 2026-11-02: EXP-010 was cancelled before any market-data run.
+# Retained only as an audit artifact; do not use for the active cTrader workflow.
+experiment:
+  name: EXP-010_gc_futures_close_momentum_replication
+  # Fill these only after verifying provider coverage. The loader rejects the
+  # placeholders so an accidental run cannot manufacture a sample window.
+  start_date: REQUIRED_YYYY-MM-DD
+  end_date: REQUIRED_YYYY-MM-DD
+
+provenance:
+  provider: REQUIRED_PROVIDER
+  dataset: REQUIRED_DATASET_AND_VERSION
+  price_basis: trade
+  # Normalize source timestamps to explicit UTC before loading.
+  source_timezone: UTC
+
+instrument:
+  # Locked standard COMEX Gold futures specification.
+  symbol: GC
+  contract_size_oz: 100
+  tick_size: 0.10
+
+session:
+  timezone: America/New_York
+  session_open: "08:20"
+  signal_time: "13:00"
+  exit_time: "13:30"
+  required_predictor_bars: 280
+
+strategy:
+  direction_modes:
+    - momentum
+    - always_long
+    - always_short
+    - deterministic_random
+  random_seed: 20261102
+  contracts_per_trade: 1
+  # Never compare two different contract months across a roll gap.
+  cross_contract_predictor: skip
+
+costs:
+  # Required research scenarios, not broker facts. Fill all three from the
+  # intended execution venue/data source before running.
+  bid_ask_spread_ticks: null
+  slippage_ticks_per_side: null
+  commission_per_side_usd: null
+

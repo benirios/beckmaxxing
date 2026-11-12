@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <BaseOutputPath>bin/Ny15ImmediateStopOrb/</BaseOutputPath>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <AlgoBuild>true</AlgoBuild>
+    <AlgoPublish>false</AlgoPublish>
+    <IncludeSource>true</IncludeSource>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="XauUsdNy15ImmediateStopOrb.cs" />
+    <PackageReference Include="cTrader.Automate" Version="1.0.21" />
+  </ItemGroup>
+</Project>

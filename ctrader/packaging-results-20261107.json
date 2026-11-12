@@ -1,0 +1,2606 @@
+{
+  "verified_utc": "2026-11-07T23:57:53.352984+00:00",
+  "records": [
+    {
+      "source": "XauUsdAggressiveSweepReversal.cs",
+      "source_sha256": "aad7e797fca02851a9d89df614af4bd245bcbb79ff800c3a9f22c07eff4ce094",
+      "project_sha256": "83c1c5d93fe574e461b15f105d05e873173f0dab32e0dd51441d0c06b4d26e3d",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdAggressiveSweepReversal.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdAggressiveSweepReversal/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdAggressiveSweepReversal/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdAggressiveSweepReversal/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:01.80\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdAggressiveSweepReversal/Debug/net6.0/XAUUSD.algo": "8e906e80d97bc8780cc51c7c2f19a9b6c0555e39117ce3c8d59420f28c50d57a"
+      }
+    },
+    {
+      "source": "XauUsdAnnualIndexWeightReset.cs",
+      "source_sha256": "ef59f276cd99523e85a62f807015a573b57bf38115b306407431459ddc7c98ae",
+      "project_sha256": "010404a0459ffed9c6bc87379e9fb7bf0f559144dbe61bdd31ea2733a1cdba1a",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdAnnualIndexWeightReset.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdAnnualIndexWeightReset/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdAnnualIndexWeightReset/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdAnnualIndexWeightReset/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.91\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdAnnualIndexWeightReset/Debug/net6.0/XAUUSD.algo": "4cc03e3fa3302730ad0aa4bac7d18c79e8bf73ca72b7dbb5825ba619b0a51414"
+      }
+    },
+    {
+      "source": "XauUsdAsiaReplenishment.cs",
+      "source_sha256": "bdfa6db64b105a3aa9427acb3b5791b2b5f429ac1990cf8ceb6fe9b7eb6d8b6f",
+      "project_sha256": "2a3973d46669126c20d9227cca84984e414f7ad67628a2e5cdfeb615a14071ed",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdAsiaReplenishment.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdAsiaReplenishment/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdAsiaReplenishment/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdAsiaReplenishment/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.93\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdAsiaReplenishment/Debug/net6.0/XAUUSD.algo": "b18225ad4b3253f37d48daee8a6b39be19cff2696c589da9aa21e74f79063911"
+      }
+    },
+    {
+      "source": "XauUsdAuctionCompletionWait.cs",
+      "source_sha256": "ecbc0b30c5ff4560f59bca89a7e5f9d24db09157c8d0bf7125585e09aaa7304a",
+      "project_sha256": "e88cd6ac011c0d7e6f8694b0212ffb4b5adab63cd461898863c574226fb9fe53",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdAuctionCompletionWait.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdAuctionCompletionWait/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdAuctionCompletionWait/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdAuctionCompletionWait/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.95\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdAuctionCompletionWait/Debug/net6.0/XAUUSD.algo": "5d881afecb7ac07dcb4558b724a2652c90a1a233e5689f25b1c7ae69e66c3acd"
+      }
+    },
+    {
+      "source": "XauUsdBidAskBounceNull.cs",
+      "source_sha256": "2473d17a3551827ef7c825774a2485cfed5617eae8d7826e10c790bab9165dd4",
+      "project_sha256": "9b6d8ef92a17cd2ee1351f0ddb992f5f64a94aa875406413286b667e6c605e8b",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdBidAskBounceNull.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdBidAskBounceNull/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdBidAskBounceNull/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdBidAskBounceNull/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:01.21\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdBidAskBounceNull/Debug/net6.0/XAUUSD.algo": "b310efb3284f00e8db451d9929f205005475922d4c28b8b69f98eba0edd5cf3d"
+      }
+    },
+    {
+      "source": "XauUsdCandleConfirmedEmaExit.cs",
+      "source_sha256": "0dfbd508652634e2f87c093d1b769919aaaac96962b059c1a0f771854c03b543",
+      "project_sha256": "ae635a9765cad9f8f7b729b94292539e803bbe22248d433241476bd67e3f51cd",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdCandleConfirmedEmaExit.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCandleConfirmedEmaExit/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCandleConfirmedEmaExit/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdCandleConfirmedEmaExit/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.87\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdCandleConfirmedEmaExit/Debug/net6.0/XAUUSD.algo": "aa89e99fcf4b3b1fb3bbbf926ebe50c60b8f98c06d9a84bae10a374510056361"
+      }
+    },
+    {
+      "source": "XauUsdCarryCurvePremium.cs",
+      "source_sha256": "b3ddfe919d6b33e76c1766029332c281c8c19a8473096c4b485ac4a71abc6743",
+      "project_sha256": "d17f8b39955615f891a604434ae648590da7fbf4f1f9e63930fd8cc764d63097",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdCarryCurvePremium.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCarryCurvePremium/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCarryCurvePremium/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdCarryCurvePremium/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.95\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdCarryCurvePremium/Debug/net6.0/XAUUSD.algo": "1f1c78cd120e85cd8a2f33614820de51adc4cbb29c15fbabe9141240363647eb"
+      }
+    },
+    {
+      "source": "XauUsdCashStressFlightComparison.cs",
+      "source_sha256": "5210bd4313165b644f5edabca921414298a51d32d0830735caad80cea3bb6c6f",
+      "project_sha256": "1c2791512108f8990464df6b32fa612d65920e96ca67a5970b6187e69ab4ee63",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdCashStressFlightComparison.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCashStressFlightComparison/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCashStressFlightComparison/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdCashStressFlightComparison/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.85\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdCashStressFlightComparison/Debug/net6.0/XAUUSD.algo": "a71cdc8d29dbc7c34702d9eda1e1f38156f7610ec7cf040acecfa4469f448556"
+      }
+    },
+    {
+      "source": "XauUsdCentralBankInformationShock.cs",
+      "source_sha256": "8bbc5f3eb2c4786587ad40c78c2ba8fde791913a6d18e582a48fad0157fd6e20",
+      "project_sha256": "cec87e71167ede33707c03e14c2f1bd3db32607addb8fa15ef1238e51c6efa69",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdCentralBankInformationShock.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCentralBankInformationShock/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCentralBankInformationShock/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdCentralBankInformationShock/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.82\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdCentralBankInformationShock/Debug/net6.0/XAUUSD.algo": "3e0bfd8f184b326f68686e9c196a748d6dc5445a68c81451bdd571ed93a15f9f"
+      }
+    },
+    {
+      "source": "XauUsdClockVolatilityStopRisk.cs",
+      "source_sha256": "70ab1b6b2f79380f6abe0a1630e6fe1bc118b0287b31fa93f3e4ac76920dbae4",
+      "project_sha256": "3e657ad344f3aec599687328361b5aebc12e451b7a2a717b6f86faddc7dbbfbb",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdClockVolatilityStopRisk.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdClockVolatilityStopRisk/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdClockVolatilityStopRisk/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdClockVolatilityStopRisk/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.84\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdClockVolatilityStopRisk/Debug/net6.0/XAUUSD.algo": "6710c584596536cd1aa5074349a1d65ed3697d163fed8ec6ae49600f60f68582"
+      }
+    },
+    {
+      "source": "XauUsdComexStateAsianResponse.cs",
+      "source_sha256": "10ddc47681d5bdcc837e3d5bfd7103007989d2f712106b2972d56ec88ca4d619",
+      "project_sha256": "59038c22569c6a0c548fbbee4501110c225401011f6197b23cf96da483376d71",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdComexStateAsianResponse.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdComexStateAsianResponse/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdComexStateAsianResponse/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdComexStateAsianResponse/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.81\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdComexStateAsianResponse/Debug/net6.0/XAUUSD.algo": "6aef8be1f0b7f333165353ab8bfad7556846a11b1dd2efa6264c78c52ce8c58c"
+      }
+    },
+    {
+      "source": "XauUsdCommonInformationCojump.cs",
+      "source_sha256": "8ee7b1601d2a7b28e27ec8e1787e29126e4fdac863e7b0f97f27a6d1205fb5fb",
+      "project_sha256": "b9f154ff0b87d58e480d9a192d9efb814c8f0c747b9002c88aa0a0542c31ef19",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdCommonInformationCojump.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCommonInformationCojump/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCommonInformationCojump/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdCommonInformationCojump/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.96\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdCommonInformationCojump/Debug/net6.0/XAUUSD.algo": "07ead7b13a8c6c0f5859ee8570d5bad3ba2a90a5fb607eeccbe8fdc7d64db35c"
+      }
+    },
+    {
+      "source": "XauUsdCovarianceRiskCap.cs",
+      "source_sha256": "01720843674f923b26fe6a0fc0b99381bf26b4346ab8ec55374a2aae6f07e00c",
+      "project_sha256": "295172cf0c76a18409d6bea7c5a284374b45b684778cfc8f3a4b16abd92b6348",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdCovarianceRiskCap.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCovarianceRiskCap/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCovarianceRiskCap/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdCovarianceRiskCap/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:01.32\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdCovarianceRiskCap/Debug/net6.0/XAUUSD.algo": "cc0f4a9968fa56ccb42565cbbd2869982d38165c23177134765fcac12a194252"
+      }
+    },
+    {
+      "source": "XauUsdCryptoLiquidationTail.cs",
+      "source_sha256": "ad571fcd8e58f53dbc5dbc1cf10c4ba9bc63084cf7fdaca9600ddf60c9739936",
+      "project_sha256": "10130b6b358cc7452ef46c8baffe6f8a887ac96810a6ae9897982b4df6508fd7",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdCryptoLiquidationTail.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCryptoLiquidationTail/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCryptoLiquidationTail/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdCryptoLiquidationTail/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.88\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdCryptoLiquidationTail/Debug/net6.0/XAUUSD.algo": "a4e1021c82116be3b0c8f518627fb48b98847e6d46aa0224cc3b551f9327c26c"
+      }
+    },
+    {
+      "source": "XauUsdCumulativeLossInterruption.cs",
+      "source_sha256": "ff1fb7edde2162fcd51de8f63fdfb762e26269d8c560f6ee3f59c8f19948194b",
+      "project_sha256": "96084f8c616164b7292f11b90ff6d99446df9ee1ad8af81a358ef7f7dac01896",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdCumulativeLossInterruption.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCumulativeLossInterruption/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdCumulativeLossInterruption/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdCumulativeLossInterruption/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.92\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdCumulativeLossInterruption/Debug/net6.0/XAUUSD.algo": "9599c0435c5a01770c59550ffb03283dd52f846968a5217c44f2a89eab8748db"
+      }
+    },
+    {
+      "source": "XauUsdDealerGammaFeedback.cs",
+      "source_sha256": "d61bacc4831c48eb1d70258b50ad200236e8c77535a854e757ac7a6018c236c3",
+      "project_sha256": "46f30efe31c671dcb0c805ccb315454afeba8ee1291345fb6d72f7dda974cd9b",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdDealerGammaFeedback.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdDealerGammaFeedback/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdDealerGammaFeedback/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdDealerGammaFeedback/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.80\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdDealerGammaFeedback/Debug/net6.0/XAUUSD.algo": "49b2da58c5aa271858039b6b7b6de19159d06714dd1ad2408c5b136c6859c47d"
+      }
+    },
+    {
+      "source": "XauUsdDealerInventoryQuoteSkew.cs",
+      "source_sha256": "de89c39479a7822a8acd7716323cd726d103a568f6ea2aad72b8978130a62958",
+      "project_sha256": "356aee73eff4f6d6255058e4621e170389f6b664a3a91308fc7e8bc2c0d47c46",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdDealerInventoryQuoteSkew.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdDealerInventoryQuoteSkew/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdDealerInventoryQuoteSkew/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdDealerInventoryQuoteSkew/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.92\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdDealerInventoryQuoteSkew/Debug/net6.0/XAUUSD.algo": "8613c35acd402eb9efc850a3a9d81db06488ba7a6bb8deddab3706ebaf1a3f0d"
+      }
+    },
+    {
+      "source": "XauUsdDeliveryBasisExecutionGate.cs",
+      "source_sha256": "75a677220e162f00ae9bbf3d600b034047e61309316386d9ca5b6c90fb84d03c",
+      "project_sha256": "028ee33558df85e2cd8991a1ffd03c014125a7dcb3a8db05f46c6702509657ba",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdDeliveryBasisExecutionGate.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdDeliveryBasisExecutionGate/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdDeliveryBasisExecutionGate/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdDeliveryBasisExecutionGate/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.93\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdDeliveryBasisExecutionGate/Debug/net6.0/XAUUSD.algo": "d1fc03a6561610f2afa7e66f0601c916fa1abcb83b66fdeb8ed8c05fda5697e5"
+      }
+    },
+    {
+      "source": "XauUsdDollarFixGoldReversal.cs",
+      "source_sha256": "8dd49e3c54165d3234be507140dccb6faf7ed197ce89e6192661f6c4ea031c2e",
+      "project_sha256": "9d7dc2de8402255267890703dc5207685f6ef09f9a6a6baead5290448f722b1f",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdDollarFixGoldReversal.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdDollarFixGoldReversal/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdDollarFixGoldReversal/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdDollarFixGoldReversal/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.82\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdDollarFixGoldReversal/Debug/net6.0/XAUUSD.algo": "ab0798c450389f581e6ec4a838dfdce88b4c93ad49c9b8476b54bc08af1b8519"
+      }
+    },
+    {
+      "source": "XauUsdDollarShockResidualShort.cs",
+      "source_sha256": "157c9cf3e5309e57ed1921284f7d7f60cd6e25dbb25fc6debd0bf951dd14956d",
+      "project_sha256": "51fa1748e209b8de22ffb00cf2c850fd821e5aa2ea508ac67cba5c96f9b63d63",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdDollarShockResidualShort.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdDollarShockResidualShort/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdDollarShockResidualShort/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdDollarShockResidualShort/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.82\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdDollarShockResidualShort/Debug/net6.0/XAUUSD.algo": "454bab850df2266b585d1ea32843be9614baaa76c04463bd815332fff84702e2"
+      }
+    },
+    {
+      "source": "XauUsdEntropySignPersistence.cs",
+      "source_sha256": "3b927b3fb754dc8ce4b0b2360a31f38189174b6c95057a2e21cae0b0234b6754",
+      "project_sha256": "3b1d014ec9e16f5e7e2e145109d61cf9e28e7c78c47025f88fdb85495207a2d1",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdEntropySignPersistence.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdEntropySignPersistence/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdEntropySignPersistence/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdEntropySignPersistence/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.84\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdEntropySignPersistence/Debug/net6.0/XAUUSD.algo": "0c09d9ccf3d4ac4bba87840572393ba2b28b653547ec0b66df6fcb7fc09e93c7"
+      }
+    },
+    {
+      "source": "XauUsdEquityDepthCostGate.cs",
+      "source_sha256": "4bbe0295cab32eeb89de75ba31acaf2b0c494caa48f66fbd7af616ef4a84c155",
+      "project_sha256": "223b2414315e5904292bffb40e2cd3f090d5c8f22fcd175b90495336239978b5",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdEquityDepthCostGate.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdEquityDepthCostGate/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdEquityDepthCostGate/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdEquityDepthCostGate/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.82\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdEquityDepthCostGate/Debug/net6.0/XAUUSD.algo": "81afdba08003f225de71d2bde45134aadea7dd6d1363b9d47e653d295508620f"
+      }
+    },
+    {
+      "source": "XauUsdEquityDrawdownFlightToGold.cs",
+      "source_sha256": "ceea6e2a1e020eee7418ac388f1aa673a414a60aac38320a795c6c5ccd926b7f",
+      "project_sha256": "da02480d695e47cb2ab6a7b3adee3d58e9a6cb2418070360c034687daac8fc1e",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdEquityDrawdownFlightToGold.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdEquityDrawdownFlightToGold/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdEquityDrawdownFlightToGold/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdEquityDrawdownFlightToGold/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.77\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdEquityDrawdownFlightToGold/Debug/net6.0/XAUUSD.algo": "c52f379d375aae4accde5461d8890768f04675daa887170097c4dc58b66f953b"
+      }
+    },
+    {
+      "source": "XauUsdEquityShockDecay.cs",
+      "source_sha256": "af24fece03603939af30a00de0794ca3078cb0901a57642cee431190b9231e6b",
+      "project_sha256": "29e17e818a04e97e85729e372b58959b77ea2eaf021a5084308d4446f94ca53c",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdEquityShockDecay.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdEquityShockDecay/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdEquityShockDecay/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdEquityShockDecay/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.81\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdEquityShockDecay/Debug/net6.0/XAUUSD.algo": "df95181b8b907b26303444abf64fdd5f867fbb85d7f46219aa22a27aa96aaeae"
+      }
+    },
+    {
+      "source": "XauUsdEtfPremiumDemand.cs",
+      "source_sha256": "c7c0931f364f4167c1fc562307a3cfe35b0e933a6e3c2c6871a3d6cba53cc5c8",
+      "project_sha256": "8ff90c79f0affd02313e27dbcf18aaef8d09b1424ed9d5860308a8ba25fdbcde",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdEtfPremiumDemand.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdEtfPremiumDemand/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdEtfPremiumDemand/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdEtfPremiumDemand/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.88\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdEtfPremiumDemand/Debug/net6.0/XAUUSD.algo": "fcbc10af9d6493a64e3fe373947d032ae9e333de395682a2f36c83392b0bd928"
+      }
+    },
+    {
+      "source": "XauUsdEuropeanOverlapGate.cs",
+      "source_sha256": "2d36355630397c97f346a1efe51c81e843c1d4a9c29ef74776e3102ce987886f",
+      "project_sha256": "38e6854d9f070b1f462972b19037bf0fa22a411df69fb94be6d8c382cc46a128",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdEuropeanOverlapGate.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdEuropeanOverlapGate/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdEuropeanOverlapGate/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdEuropeanOverlapGate/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.84\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdEuropeanOverlapGate/Debug/net6.0/XAUUSD.algo": "989ae0267095ce32deec8925aa39020364e859221cf93d1599523427d86f5e9f"
+      }
+    },
+    {
+      "source": "XauUsdFomcEasingSurpriseContinuation.cs",
+      "source_sha256": "be0b76aac9a2f907ebc0006f930f57cef378324e72ff0f95757d63c8c3452a8a",
+      "project_sha256": "a3373349957501222fc8968982f84f616ece380ae3036139d1d02e1911607206",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdFomcEasingSurpriseContinuation.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdFomcEasingSurpriseContinuation/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdFomcEasingSurpriseContinuation/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdFomcEasingSurpriseContinuation/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.76\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdFomcEasingSurpriseContinuation/Debug/net6.0/XAUUSD.algo": "ae52614af782e4693abbfcdbab37a30696428df7e9d61401126700a73fb648da"
+      }
+    },
+    {
+      "source": "XauUsdFomcUncertaintyResolution.cs",
+      "source_sha256": "9754388a733a08f7046b2209948cbb2c1e0641a1262eea65c3fac764adeb1b91",
+      "project_sha256": "772f46c524eb860aae3e975d0172dda6f00722bde4334931da807d4416db7b9f",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdFomcUncertaintyResolution.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdFomcUncertaintyResolution/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdFomcUncertaintyResolution/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdFomcUncertaintyResolution/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.90\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdFomcUncertaintyResolution/Debug/net6.0/XAUUSD.algo": "b8dcab3c751f676b432260f477901800cd917e8bd61d56a3ba460ceb7bfaba48"
+      }
+    },
+    {
+      "source": "XauUsdFuturesImbalanceNextBar.cs",
+      "source_sha256": "b0732b529a8668ac0e3f7d115842e7957f66dba3123449edd9f8d71cc91ff862",
+      "project_sha256": "d94697906692a90bb5951bfe25713ea50643f13d91e80bbd6c18b171adcc187b",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdFuturesImbalanceNextBar.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdFuturesImbalanceNextBar/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdFuturesImbalanceNextBar/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdFuturesImbalanceNextBar/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.84\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdFuturesImbalanceNextBar/Debug/net6.0/XAUUSD.algo": "b3c85efaa2134885093a5a6fab50e1042e011cc2cca3efa3190225efff92abe8"
+      }
+    },
+    {
+      "source": "XauUsdFuturesInterruptionExecution.cs",
+      "source_sha256": "20fee9d1e7ff40940f73b8adefe864f8bcc79ceaa7936fa5bd1bc84c9e6a8635",
+      "project_sha256": "beb945d636d2d47996bfa64f9be84480dd777f40047cdfc1aa3f60a2562de351",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdFuturesInterruptionExecution.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdFuturesInterruptionExecution/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdFuturesInterruptionExecution/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdFuturesInterruptionExecution/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.83\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdFuturesInterruptionExecution/Debug/net6.0/XAUUSD.algo": "3f6ff973f834d5f295854c5656259d1cf2139c497f827e35869dc07896708eed"
+      }
+    },
+    {
+      "source": "XauUsdFuturesSpotCatchupDiagnostic.cs",
+      "source_sha256": "4fa372fb5c9ee2e6d4c64429ca34dad3d7ce72238cc03ed45f10b371c9d5c511",
+      "project_sha256": "6755b8773cd939b24deff08b60ceb02f068375a8038a47e52fb7889bcc107b0b",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdFuturesSpotCatchupDiagnostic.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdFuturesSpotCatchupDiagnostic/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdFuturesSpotCatchupDiagnostic/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdFuturesSpotCatchupDiagnostic/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.88\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdFuturesSpotCatchupDiagnostic/Debug/net6.0/XAUUSD.algo": "7559693e88dbeb6c854a64db444ce346d3e2b276ef17cc8851df634a3d868a00"
+      }
+    },
+    {
+      "source": "XauUsdGcCloseControls.cs",
+      "source_sha256": "22abb16b97dd5e1dd03f0ac8490b33cb4464961ebba19e8b0f84eb1c94a58a34",
+      "project_sha256": "3d881c26e523e8e8a5d2fced84c86ad4a266b132d26a660d454a62f4df851bc4",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdGcCloseControls.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdGcCloseControls/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdGcCloseControls/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdGcCloseControls/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.79\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdGcCloseControls/Debug/net6.0/XAUUSD.algo": "579afc11006c0d5822854398d35a6fc5df9b31ec96e8617ac55df23641a65814"
+      }
+    },
+    {
+      "source": "XauUsdGeopoliticalThreatHazard.cs",
+      "source_sha256": "b8aa2cceeba9b74585f64599fb57b17040513931fa9ddd80d32e71c99776c707",
+      "project_sha256": "a46dd5e2cd6643880d0b127acad6b911fefee6a29f45c12787f5182bdd7dabfa",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdGeopoliticalThreatHazard.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdGeopoliticalThreatHazard/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdGeopoliticalThreatHazard/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdGeopoliticalThreatHazard/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.90\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdGeopoliticalThreatHazard/Debug/net6.0/XAUUSD.algo": "255293bbdd4778405c729da6755ea6050ce479d59fd82d0eeaddc9cbba946048"
+      }
+    },
+    {
+      "source": "XauUsdGvzIncrementalVariance.cs",
+      "source_sha256": "523fb4f9ddfd53e9123f3f26d10f9fb0046b70f7382dcd74713c5abd6567408e",
+      "project_sha256": "017f9f8c8e1c374b24ae5db2524ea9e8826df1c720c1e3bf966097edb7bc0b2a",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdGvzIncrementalVariance.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdGvzIncrementalVariance/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdGvzIncrementalVariance/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdGvzIncrementalVariance/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.83\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdGvzIncrementalVariance/Debug/net6.0/XAUUSD.algo": "2054d9720862a685546458e36baf6490b5492d12fb3e2ed567fe656e5e90996f"
+      }
+    },
+    {
+      "source": "XauUsdHiddenSupplyReplenishment.cs",
+      "source_sha256": "554b5f0c88db447c8eb954c54f8a1950eeaaf80e643d44ccec4d5aeeecd05d08",
+      "project_sha256": "a4ee7b1040aa1d8e45a9a6bea8c0dcae2f6db6fcd5586df2cc3314974d76f274",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdHiddenSupplyReplenishment.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdHiddenSupplyReplenishment/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdHiddenSupplyReplenishment/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdHiddenSupplyReplenishment/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.94\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdHiddenSupplyReplenishment/Debug/net6.0/XAUUSD.algo": "8f0061c9b1033982dcba942e2c2fd9ca8c36d9c147beb0f7a87abda24ef5bc45"
+      }
+    },
+    {
+      "source": "XauUsdHolderGainsNewsDrift.cs",
+      "source_sha256": "2945f8114ce93205aac48f4a2b114331e4dc64dae703c74641e8ac287498a3a0",
+      "project_sha256": "f3a29bada076a63051d6d89f6e41bf589ef9681ebf10762eb3f2f9fbb62d3241",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdHolderGainsNewsDrift.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdHolderGainsNewsDrift/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdHolderGainsNewsDrift/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdHolderGainsNewsDrift/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.92\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdHolderGainsNewsDrift/Debug/net6.0/XAUUSD.algo": "8829d64f09f93f3a2ce3bfef0b0c747147d7d7c2569bed5d1a2ad2b7ceb4edc5"
+      }
+    },
+    {
+      "source": "XauUsdImpliedSkewDirection.cs",
+      "source_sha256": "18cdad8352703126dedc950ad84f5f322ebf57dddec7ad592f86e1b15fb43a5c",
+      "project_sha256": "b11d7761dda88b99e696cb3714c20a4c4147d2f3373170a8f3f3fc0546eb4b35",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdImpliedSkewDirection.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdImpliedSkewDirection/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdImpliedSkewDirection/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdImpliedSkewDirection/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.83\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdImpliedSkewDirection/Debug/net6.0/XAUUSD.algo": "3101421bc68ee6774cf71d868b44b1ee3994cc46b14105f1ce8abcfb3812f34a"
+      }
+    },
+    {
+      "source": "XauUsdIndexRollExecution.cs",
+      "source_sha256": "fec1810f219f13c974babb1f7c3ec4b2c18e0fd6a05e40115caadacf00e94931",
+      "project_sha256": "7611118d5728ca24c6f3753c0b2cf8659151659cafc8df222ba46f34058c3397",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdIndexRollExecution.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdIndexRollExecution/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdIndexRollExecution/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdIndexRollExecution/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.82\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdIndexRollExecution/Debug/net6.0/XAUUSD.algo": "58ad9ee1d81a17a1dd89a8f363fd6e5df9b1e6668bcf2ee7950befec015c237e"
+      }
+    },
+    {
+      "source": "XauUsdJumpShareTailRisk.cs",
+      "source_sha256": "98b2336414ff9da5a24acb3fd7624f692712f65a75b7df040100b3aae34bebee",
+      "project_sha256": "6da486765e83590aaa25ad3926709f5f3a1ed3875894e321d30d3ed824e8eb8e",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdJumpShareTailRisk.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdJumpShareTailRisk/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdJumpShareTailRisk/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdJumpShareTailRisk/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.80\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdJumpShareTailRisk/Debug/net6.0/XAUUSD.algo": "1e9718d8f1048235e50524f2e0303c4c7d60aed4c9209be367c96df1247917f0"
+      }
+    },
+    {
+      "source": "XauUsdLeaseRateExecutionAsymmetry.cs",
+      "source_sha256": "705367e7e6133af9741ebb3149fe6880c966c9e6f5abbcbd1873bc3b9bd62182",
+      "project_sha256": "676a1fb2bb3fbf0c4d7c396af6d08e4ab016eee4448907d270c25ce12b8fa40d",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdLeaseRateExecutionAsymmetry.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdLeaseRateExecutionAsymmetry/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdLeaseRateExecutionAsymmetry/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdLeaseRateExecutionAsymmetry/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.91\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdLeaseRateExecutionAsymmetry/Debug/net6.0/XAUUSD.algo": "d9a67c4819af6ff736b60af10fd0bdf716c0433c93d2315cb2e19a1777cdfd4e"
+      }
+    },
+    {
+      "source": "XauUsdLeveragedFundRebalance.cs",
+      "source_sha256": "dca0a50d9e4105a1158abe39258bc0ad194218ebc60f3907d108cfde326c3ac7",
+      "project_sha256": "85ead819201485a0c2bd9bb8814f7721a7f441319edd624e48bea9e62dd6a848",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdLeveragedFundRebalance.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdLeveragedFundRebalance/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdLeveragedFundRebalance/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdLeveragedFundRebalance/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.86\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdLeveragedFundRebalance/Debug/net6.0/XAUUSD.algo": "b59ed78d568eddaafff2d7d0db98f6edf44950898779452c7fece5afc6ae59f9"
+      }
+    },
+    {
+      "source": "XauUsdLondonFailedBreakout.cs",
+      "source_sha256": "b7929db72d31176cfe90400ab4c8c5f55c4d991a4c5bd36094519d0c8a2f0fee",
+      "project_sha256": "1bdd3a80b2cb335649ce2edf6d93a87bbfa7a3a60a54aec349194785358406c5",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdLondonFailedBreakout.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdLondonFailedBreakout/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdLondonFailedBreakout/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdLondonFailedBreakout/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.75\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdLondonFailedBreakout/Debug/net6.0/XAUUSD.algo": "e79638d4de1cd34b3fbc90abfeb353d2e5bdfccec776ee902d938abdec00819d"
+      }
+    },
+    {
+      "source": "XauUsdLondonHolidayExecutionGate.cs",
+      "source_sha256": "90365ea796f4dd11ec1211752831f91b6a123aa1b038aa6d2846449fcfc96875",
+      "project_sha256": "ec1a4fbbca165d4f124dc93ec69c238fcfa7d6f9577d4f2cde91087db6e5b058",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdLondonHolidayExecutionGate.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdLondonHolidayExecutionGate/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdLondonHolidayExecutionGate/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdLondonHolidayExecutionGate/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.90\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdLondonHolidayExecutionGate/Debug/net6.0/XAUUSD.algo": "20d38c5a87a60f2505e0f94e9eb256b4bb7d6b88ddd808bf8422b5d352c7b23d"
+      }
+    },
+    {
+      "source": "XauUsdLondonPmAuctionContinuation.cs",
+      "source_sha256": "73ee7d27ee04e30e4d3c78c6f18f75230c9fa405ee8d89ee5a40aee435f5ac60",
+      "project_sha256": "05cac29daab254bd4201f1cc43a177a472a68da705c8cae14d9fbd8c07eb308a",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdLondonPmAuctionContinuation.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdLondonPmAuctionContinuation/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdLondonPmAuctionContinuation/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdLondonPmAuctionContinuation/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.76\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdLondonPmAuctionContinuation/Debug/net6.0/XAUUSD.algo": "68b46cf9cbc51e0392eab76b9266a9452e201bc6cfa0e02b8136d8eafc0f0d14"
+      }
+    },
+    {
+      "source": "XauUsdMacroCalendarGate.cs",
+      "source_sha256": "34451c7e2fccdc54841aeec18c80b8f10adb9a367c0b1495078a8ead6bcbb110",
+      "project_sha256": "bfd1a0f1706ff685f348e8361a14d37511a74cf94c9439c67a534754369ee38a",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdMacroCalendarGate.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdMacroCalendarGate/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdMacroCalendarGate/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdMacroCalendarGate/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.84\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdMacroCalendarGate/Debug/net6.0/XAUUSD.algo": "8ac4eba255822a0697d25c13a3ff3d77172753ed384e268bc31b0e1152d2dc8e"
+      }
+    },
+    {
+      "source": "XauUsdMacroReleaseContinuation.cs",
+      "source_sha256": "f83b54356558b5a643b2ff9ac26416389ee909a428f4f62867deb2384bb21dcf",
+      "project_sha256": "d27ad6a8faa153a866bd0b0ba9b7ce7177a57eead53d3a1571c8815a0dd2eb08",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdMacroReleaseContinuation.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdMacroReleaseContinuation/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdMacroReleaseContinuation/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdMacroReleaseContinuation/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.83\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdMacroReleaseContinuation/Debug/net6.0/XAUUSD.algo": "7d815c9a7e6b67cc4f496946cfe60032b0bc08886fc20b57ac210c445eb49c86"
+      }
+    },
+    {
+      "source": "XauUsdMarginIncreaseLiquidation.cs",
+      "source_sha256": "8692cab27f5c6636829dfff82f7d9820ebaa977756318315f5fa1e6b195299d5",
+      "project_sha256": "4cc2af15aa5f9240f25dfefdf39a9b951ae3e4792e7d613d0e3e35f4a530c22a",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdMarginIncreaseLiquidation.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdMarginIncreaseLiquidation/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdMarginIncreaseLiquidation/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdMarginIncreaseLiquidation/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.84\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdMarginIncreaseLiquidation/Debug/net6.0/XAUUSD.algo": "46e06eded4d349f8e43e6274f994b090b684f4464f62992d46f5ad200f0d61d5"
+      }
+    },
+    {
+      "source": "XauUsdMeasuredStopCascade.cs",
+      "source_sha256": "b2269bdeb9dde0abe59092efa81f6ff90a194d7098cde5b8fb02b22d8d3cbd86",
+      "project_sha256": "a1a2d291a1c16a21777d34df20bf7f165a788c2d31e2d3a54cbb1cd54ee5b171",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdMeasuredStopCascade.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdMeasuredStopCascade/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdMeasuredStopCascade/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdMeasuredStopCascade/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.93\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdMeasuredStopCascade/Debug/net6.0/XAUUSD.algo": "73bfe8a957478bcbeb2803f2f8550a797741a5a1100ef77bc1aee41a536fbe22"
+      }
+    },
+    {
+      "source": "XauUsdMonthEndPortfolioDemand.cs",
+      "source_sha256": "b679e9668e6426d2f367658f8548c38dc8b55c21ef5962e1e2465ba5aed0fb68",
+      "project_sha256": "4ac41b8a8362f9ea98039ff12dc788883a68f334a8de5f67a39ed845affe8f9c",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdMonthEndPortfolioDemand.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdMonthEndPortfolioDemand/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdMonthEndPortfolioDemand/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdMonthEndPortfolioDemand/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.94\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdMonthEndPortfolioDemand/Debug/net6.0/XAUUSD.algo": "bbca7ddf0b3ec95600efe7d98765ffea0d80111f2e953addeb989ffeadcb61c4"
+      }
+    },
+    {
+      "source": "XauUsdNegativeGoldNewsShort.cs",
+      "source_sha256": "86e03309ed8c993463b7b52188f704fd07025cd2a5072c98232cd9efee6ad78d",
+      "project_sha256": "a67eb708a033832079479945b75ab28933eed926f2f12e9a3a8eb2f7fd4cf44d",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdNegativeGoldNewsShort.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdNegativeGoldNewsShort/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdNegativeGoldNewsShort/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdNegativeGoldNewsShort/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.83\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdNegativeGoldNewsShort/Debug/net6.0/XAUUSD.algo": "cec91c2b8935e8c81ff49481156dd895430e5a47becfdec7823e58235cff28aa"
+      }
+    },
+    {
+      "source": "XauUsdNewsAttentionJumpHazard.cs",
+      "source_sha256": "967315ba4a3fb6e31301b522011f612d2628c6347bc72a92daa0dfa1f39ef501",
+      "project_sha256": "a37d45f39eb50ffd9ffb7c624a060337f2003448a692fbff73571767618e51be",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdNewsAttentionJumpHazard.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdNewsAttentionJumpHazard/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdNewsAttentionJumpHazard/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdNewsAttentionJumpHazard/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.82\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdNewsAttentionJumpHazard/Debug/net6.0/XAUUSD.algo": "d6c883e8ff8a94eaa7be6ddcb8c4d9e3ef84d55241ffe937a6f6dc4a5728e58f"
+      }
+    },
+    {
+      "source": "XauUsdNy15OrbBaseline.cs",
+      "source_sha256": "e9b793a13dfe5a48c8a588e3816372236ca2bb8f28a00e7507a7ddefe26eac19",
+      "project_sha256": "e9c43c5e58b61bd03e8d4fd004a13c92f60e7031c81fd3279bdfa3f9a275101d",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdNy15OrbBaseline.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdNy15OrbBaseline/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdNy15OrbBaseline/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdNy15OrbBaseline/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.77\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdNy15OrbBaseline/Debug/net6.0/XAUUSD.algo": "b3b6e0d60951b339bceccc934a4e54cccf8d641596e0930dcdfb7664e0e84bfd"
+      }
+    },
+    {
+      "source": "XauUsdOilGoldCovarianceTail.cs",
+      "source_sha256": "f897adf83ca17f8918734429be2c77dd680e1437d78d61714449f11f7dd3ea61",
+      "project_sha256": "f462f8428429446554cfd0f97a927ddcaf598364befeca57d7dd6cf33f89d94b",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdOilGoldCovarianceTail.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdOilGoldCovarianceTail/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdOilGoldCovarianceTail/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdOilGoldCovarianceTail/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.83\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdOilGoldCovarianceTail/Debug/net6.0/XAUUSD.algo": "eced056d0475c42f839139930797e9d4113faa05e0466bb2966cf404aafdfea6"
+      }
+    },
+    {
+      "source": "XauUsdOpenInterestContraction.cs",
+      "source_sha256": "6b056489c13a55d202316cb2eb514c54cc04f9932507f863bf51ea451ccf39fd",
+      "project_sha256": "8843ed3bf9ae05861b4ca557d45f47a38083ec25e3a7e39046f0313fdd7279fa",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdOpenInterestContraction.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdOpenInterestContraction/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdOpenInterestContraction/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdOpenInterestContraction/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.93\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdOpenInterestContraction/Debug/net6.0/XAUUSD.algo": "a646d60fccf0bf8cac6aa2b6e01bcc36e34c4b29feb2fbe6e6cedda53e034cd7"
+      }
+    },
+    {
+      "source": "XauUsdOptionTermStructureHazard.cs",
+      "source_sha256": "39e5d32e1265267fd9df06760c3be410b188b190725eda0e74da007f4bffe014",
+      "project_sha256": "ba5b05188f6b277f4c1ddb8a4ce3f28d1a1dc3eb4b4fb02be87060e195eff6b5",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdOptionTermStructureHazard.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdOptionTermStructureHazard/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdOptionTermStructureHazard/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdOptionTermStructureHazard/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.91\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdOptionTermStructureHazard/Debug/net6.0/XAUUSD.algo": "023b8d0273b6d637e7deb790de691edeaa2d9758ddda9a1dd659c48d16d389dd"
+      }
+    },
+    {
+      "source": "XauUsdOvernightDrift.cs",
+      "source_sha256": "44652ecc3f0b22e9c9777e7cd033841241a3dffe76391f745751772bc768e8ac",
+      "project_sha256": "916ba530c5f0c8a9d97248aad0d1646a57ac973b532c818712b0db91497f6160",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdOvernightDrift.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdOvernightDrift/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdOvernightDrift/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdOvernightDrift/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.92\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdOvernightDrift/Debug/net6.0/XAUUSD.algo": "f2faf902fe05663e1ff8c9ab9b6fe99425ddb0e650b131998b417b4b66c2c3ed"
+      }
+    },
+    {
+      "source": "XauUsdPassiveEntrySelection.cs",
+      "source_sha256": "ff536646244e335b2ed1f5b383c96423555f21759a5d5f41f918d395c30dd552",
+      "project_sha256": "f7bcccd6c96304e7874be4477bfa7e22170b4f7249c1e899df18cd581da3cb88",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdPassiveEntrySelection.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPassiveEntrySelection/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPassiveEntrySelection/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdPassiveEntrySelection/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.86\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdPassiveEntrySelection/Debug/net6.0/XAUUSD.algo": "69dd5497d3e8f3f547955e0947010bcecb8ccad1637f825c45a880b52ea51b01"
+      }
+    },
+    {
+      "source": "XauUsdPayrollComponentConflict.cs",
+      "source_sha256": "659f99db00097e06715cd784557b00a09ef647ed9201dd301e16199acf60fc1f",
+      "project_sha256": "d4a2c3f3124b632ab24355e9e7c55792e61061fcb45f54fc8ddc340353f78c27",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdPayrollComponentConflict.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPayrollComponentConflict/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPayrollComponentConflict/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdPayrollComponentConflict/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.82\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdPayrollComponentConflict/Debug/net6.0/XAUUSD.algo": "b165801b2d0abc59a83327a13e330a649d4c1331cc2abb0f4919254f5e50dab1"
+      }
+    },
+    {
+      "source": "XauUsdPersistentTradeSignFlow.cs",
+      "source_sha256": "97d290151e17cc800ca01c5c83a6d896f3622d10b40cbd40991dfec95475d850",
+      "project_sha256": "61b303a43bf69b8a71d429200a5b150932ce1aaee2894c6493814458f64895ae",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdPersistentTradeSignFlow.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPersistentTradeSignFlow/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPersistentTradeSignFlow/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdPersistentTradeSignFlow/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.91\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdPersistentTradeSignFlow/Debug/net6.0/XAUUSD.algo": "d6a0d7903877adc30db0d335983c878e9260e3d9a610162de450afd9114d3918"
+      }
+    },
+    {
+      "source": "XauUsdPolicyUncertaintyJumpHazard.cs",
+      "source_sha256": "89f32c5346af8b40a30817d367b4a4e609bf2bdcf486f4e1733fc788f61bf745",
+      "project_sha256": "fa25ff2da5600f87e64f964b8b0d0859741bdd48469998f61b22d91038e517e6",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdPolicyUncertaintyJumpHazard.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPolicyUncertaintyJumpHazard/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPolicyUncertaintyJumpHazard/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdPolicyUncertaintyJumpHazard/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.80\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdPolicyUncertaintyJumpHazard/Debug/net6.0/XAUUSD.algo": "d5414255b62b79fd36df3743a9f8602c2873e65fdcd902ed06f3cb7774981f62"
+      }
+    },
+    {
+      "source": "XauUsdPositionHysteresis.cs",
+      "source_sha256": "a13bcd7a3143fc67bb850e60297d710c9aee88aa4386df2ebb07acdb610f268a",
+      "project_sha256": "52da514ef75d3434b6f9fa2d04ccbe7528d6b4e36e4334d339be4803941c20a2",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdPositionHysteresis.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPositionHysteresis/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPositionHysteresis/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdPositionHysteresis/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:01.05\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdPositionHysteresis/Debug/net6.0/XAUUSD.algo": "ffb053087b7052607fe42fb24ed75f69ae57496dd1740f95cef4d8584d8d5e05"
+      }
+    },
+    {
+      "source": "XauUsdPostJumpSpreadRecovery.cs",
+      "source_sha256": "72bac2aecfbbed835989ecc86fc0ac804b3e0bcc1f01d7452e660eb8cb67177c",
+      "project_sha256": "655c657767414f3084c81662ec184368152cc29119d7e343b18cbc8d87a95f3c",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdPostJumpSpreadRecovery.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPostJumpSpreadRecovery/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPostJumpSpreadRecovery/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdPostJumpSpreadRecovery/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.82\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdPostJumpSpreadRecovery/Debug/net6.0/XAUUSD.algo": "f487a7af09ffb5fd75ae4384d359a7e774a648fbdf0f9d291b2ec361e086f7d4"
+      }
+    },
+    {
+      "source": "XauUsdPreBreakExecutionGate.cs",
+      "source_sha256": "8487fdcd148b2a41f92c4019e9002278305d81efec63751a67009a8874fb6d49",
+      "project_sha256": "563744dd31650611ffc7f5b99779406ba85011f43907b5f693e5d7f7699acf9e",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdPreBreakExecutionGate.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPreBreakExecutionGate/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPreBreakExecutionGate/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdPreBreakExecutionGate/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.83\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdPreBreakExecutionGate/Debug/net6.0/XAUUSD.algo": "75419a7aad1cda2229a26684ff056a41a25d43a8500def4dbf6f969cbffbe8ca"
+      }
+    },
+    {
+      "source": "XauUsdPreFomcDrift.cs",
+      "source_sha256": "dc785eaa327a83dc86f6e7943f97bac44aedb7a2a885e1b47918524681b870da",
+      "project_sha256": "a8778ce192d29ac2dbdb4cf393ba85f869779493df808dddf977bfa8237784f2",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdPreFomcDrift.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPreFomcDrift/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPreFomcDrift/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdPreFomcDrift/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.90\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdPreFomcDrift/Debug/net6.0/XAUUSD.algo": "0d2b3e17a2b56a65942f05608adfde783acb9d08bc3333f2c2a5f1dd199ec995"
+      }
+    },
+    {
+      "source": "XauUsdProducerHedgingPremium.cs",
+      "source_sha256": "a0de89243ec6d62d7384790a8506c8afa769637d431a16ce94d4bfa05ecdcbc2",
+      "project_sha256": "50fd848ab1ec03828b0c4d10822e2c444ac598c85e2e38444fd5e8a10a6f185c",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdProducerHedgingPremium.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdProducerHedgingPremium/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdProducerHedgingPremium/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdProducerHedgingPremium/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.91\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdProducerHedgingPremium/Debug/net6.0/XAUUSD.algo": "d04e5a9d009d0ff74504ce987566cd859549bb68d7bb4955685b05b22007be1f"
+      }
+    },
+    {
+      "source": "XauUsdPublishedAuctionImbalance.cs",
+      "source_sha256": "baf93e4ed85922fff3ff1414c8eb9744f059964fcd928d648e6ca8cdafa4854c",
+      "project_sha256": "45dc56bf9dcec2e9926e06975f8f31ee97d261d42a8947efa132ec2b4dda8504",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdPublishedAuctionImbalance.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPublishedAuctionImbalance/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdPublishedAuctionImbalance/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdPublishedAuctionImbalance/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.89\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdPublishedAuctionImbalance/Debug/net6.0/XAUUSD.algo": "aa5cf1d1f914584177f96f3b47fa6ff48780c92453fe94ab6d75a54ba432a2fd"
+      }
+    },
+    {
+      "source": "XauUsdQuoteAgeExecutionGate.cs",
+      "source_sha256": "3074cf873462b9eca774396114942511eaf85af6771b831a6f78a20fac61760c",
+      "project_sha256": "47ec3a61cf792b514109732097b3b46c03647950d1fbfea112105a71d147655a",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdQuoteAgeExecutionGate.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdQuoteAgeExecutionGate/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdQuoteAgeExecutionGate/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdQuoteAgeExecutionGate/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.90\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdQuoteAgeExecutionGate/Debug/net6.0/XAUUSD.algo": "5998956b510f2aa2d3ecdc4941565fa32ed869b94865e7a40ef25f0fdbad0a95"
+      }
+    },
+    {
+      "source": "XauUsdQuoteWithdrawalTailRisk.cs",
+      "source_sha256": "e10a84359aa7fbf6dfee44105fa057a34289a1ae4ba4abb0a116f26af1e7a182",
+      "project_sha256": "71e5caf596647019ee35c84d4ac64cc6930f9f1b3dd8512c03772a2561d7f55a",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdQuoteWithdrawalTailRisk.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdQuoteWithdrawalTailRisk/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdQuoteWithdrawalTailRisk/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdQuoteWithdrawalTailRisk/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.83\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdQuoteWithdrawalTailRisk/Debug/net6.0/XAUUSD.algo": "d221295125b6a204fa8ebd52ac355bcdc8169c026e8669e9706a7c2c4a5736b1"
+      }
+    },
+    {
+      "source": "XauUsdQuotedOptionHedge.cs",
+      "source_sha256": "dfe4192154f67cad56af3bd3b53757cadcfb03f8bddf44b529991e511791e963",
+      "project_sha256": "3cbab988ece6a604dc2bff9a188488c2805b5f289094d8ca04a49e8c65896399",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdQuotedOptionHedge.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdQuotedOptionHedge/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdQuotedOptionHedge/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdQuotedOptionHedge/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:01.04\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdQuotedOptionHedge/Debug/net6.0/XAUUSD.algo": "6bddc77b59ef7bc08d39b30383c9d913278fd4d685343d899f7db1fc5ceb70e8"
+      }
+    },
+    {
+      "source": "XauUsdRealYieldOpportunityCost.cs",
+      "source_sha256": "4a24f3253ef965f47d6276f597fb692c147e44ac1a90f63e4dd266b6944ef366",
+      "project_sha256": "4604bfa8d7620d8e2646b9cda575469a9e32352c9bbce4910fef4696bf3be590",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdRealYieldOpportunityCost.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdRealYieldOpportunityCost/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdRealYieldOpportunityCost/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdRealYieldOpportunityCost/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.85\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdRealYieldOpportunityCost/Debug/net6.0/XAUUSD.algo": "9ebc2444a61cbcb886e4fe5f5d9c70d7ecbaf990e9d01beebe61184effc50406"
+      }
+    },
+    {
+      "source": "XauUsdRealizedSkewQuantile.cs",
+      "source_sha256": "f02c6a8d0c319761c324ce83b68ff7719155f8a2afe5a90a6f282bb7f32c3e63",
+      "project_sha256": "0ba60909f04e99caa0ef987a74e08b9afbcbb582203f49f026b13d2ee2b7b647",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdRealizedSkewQuantile.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdRealizedSkewQuantile/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdRealizedSkewQuantile/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdRealizedSkewQuantile/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.82\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdRealizedSkewQuantile/Debug/net6.0/XAUUSD.algo": "937e543285ba5a5a31225776f2d9193c61f945a813ed5157f37ab8d7b82c678d"
+      }
+    },
+    {
+      "source": "XauUsdRepeatedTradeSizeFlow.cs",
+      "source_sha256": "201c778f9f22e59cb34854cf1f81126bd3557d7059cfaf6462aceb3865226059",
+      "project_sha256": "644f142771b9fe6baaef8c4c11c0cb5a5093de5cd147b18480bca67b77ba5df0",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdRepeatedTradeSizeFlow.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdRepeatedTradeSizeFlow/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdRepeatedTradeSizeFlow/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdRepeatedTradeSizeFlow/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.93\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdRepeatedTradeSizeFlow/Debug/net6.0/XAUUSD.algo": "00243394aa7c54f91414ddd9bf7c365ad9ff6ed960d86c86c03d696b5b8d3417"
+      }
+    },
+    {
+      "source": "XauUsdReserveQuantitySurprise.cs",
+      "source_sha256": "332c4258a7dc254cf5c8b8d31478fc5eea1b55859dd65836791ca57e194aa8ca",
+      "project_sha256": "78a8385120b620ca3dc582565bc70d0bc79e641121a719b3f668b4b32fe1bc40",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdReserveQuantitySurprise.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdReserveQuantitySurprise/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdReserveQuantitySurprise/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdReserveQuantitySurprise/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.91\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdReserveQuantitySurprise/Debug/net6.0/XAUUSD.algo": "c75e7d287a3f3490456c3b2e77f599111a65a6f8cffa7109dc08a5f114e78937"
+      }
+    },
+    {
+      "source": "XauUsdResetHeadroomPolicy.cs",
+      "source_sha256": "48c8e84471500e6144dce284668aadfeffaf5aa67e82379d006f0b43039250f9",
+      "project_sha256": "d2155e12050b1fa1d92e7e342bd31e93de31422fe7dbaf9cdacb15c2163f83f5",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdResetHeadroomPolicy.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdResetHeadroomPolicy/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdResetHeadroomPolicy/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdResetHeadroomPolicy/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.88\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdResetHeadroomPolicy/Debug/net6.0/XAUUSD.algo": "f8aff43fda250277edce5a9fa9fd7acbcec95752f2b799af82449fcfb59abe81"
+      }
+    },
+    {
+      "source": "XauUsdRiskConstrainedGrowth.cs",
+      "source_sha256": "874b8279761b264761115032d1f2d8dcbda5584a2e1923e16d0d7196ce4eda04",
+      "project_sha256": "f7bb3b9e1de841fee0d5fd3dcc5e7c995c06c89008828599befb571a0aabb93f",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdRiskConstrainedGrowth.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdRiskConstrainedGrowth/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdRiskConstrainedGrowth/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdRiskConstrainedGrowth/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.93\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdRiskConstrainedGrowth/Debug/net6.0/XAUUSD.algo": "f9cc4bd9d020ed83a061d31277c2d9e2adf4ff9d1fbbb20f8cefaf7a9630538a"
+      }
+    },
+    {
+      "source": "XauUsdRoundNumberRejection.cs",
+      "source_sha256": "93267d90c9c899850d5bba1630f3d970b942ae2eb80e16c7432fefa020219f26",
+      "project_sha256": "a054ecc88054392513007d24324c08a76ecb77764168e39230a061f8cd714f6a",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdRoundNumberRejection.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdRoundNumberRejection/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdRoundNumberRejection/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdRoundNumberRejection/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.77\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdRoundNumberRejection/Debug/net6.0/XAUUSD.algo": "56d605e09fd278b752d6e0280ccc8784f8c2ebe04caa4b9605f7cece3628739a"
+      }
+    },
+    {
+      "source": "XauUsdSameClockPersistence.cs",
+      "source_sha256": "4524cee4433a1e174a78d33aa06705bd8a327b0307b52f568539cf6ee4828e53",
+      "project_sha256": "b6f1bdf9f27e364e12fad20312309c13b798c93b27eef781102479ad8e5c3147",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdSameClockPersistence.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSameClockPersistence/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSameClockPersistence/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdSameClockPersistence/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.91\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdSameClockPersistence/Debug/net6.0/XAUUSD.algo": "8fe59d67d7884f00d57649b124c4b9e4d7a17147b8c4749076926de344a87e74"
+      }
+    },
+    {
+      "source": "XauUsdSelfExcitingJumpHazard.cs",
+      "source_sha256": "247d6f8a3f7f1f4db3e5bc22fb15ad34f79350d2c2abbcd1175f40bbee151b31",
+      "project_sha256": "39451799ad49673ed2996ff4d0c3fdebb9e3816e0950b79759d8817c9f63c8e4",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdSelfExcitingJumpHazard.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSelfExcitingJumpHazard/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSelfExcitingJumpHazard/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdSelfExcitingJumpHazard/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.83\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdSelfExcitingJumpHazard/Debug/net6.0/XAUUSD.algo": "66e4836a31ed36f56ad4b9f49ec52c6c7736a3c39628450757b964a6da635a0c"
+      }
+    },
+    {
+      "source": "XauUsdSemivarianceStopRisk.cs",
+      "source_sha256": "0680cd0246ee90739992238aa5c79dc48355b4b6908a985b312384c64edd87b8",
+      "project_sha256": "cd7633cdff1de3769e8be1244bbbf035f25aac2f601ee70ca094ea6fc7bf88e2",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdSemivarianceStopRisk.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSemivarianceStopRisk/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSemivarianceStopRisk/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdSemivarianceStopRisk/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.84\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdSemivarianceStopRisk/Debug/net6.0/XAUUSD.algo": "f94eec2dad0c52c6ac17de9bbe006cafc1d196a92c428e98098f052441e37ae6"
+      }
+    },
+    {
+      "source": "XauUsdSentimentReleaseLiquidityGate.cs",
+      "source_sha256": "6deb622857e6ac78ed79ff6092e48fbd43013adf1e845cc28ef490e9edf0dec3",
+      "project_sha256": "d39008f3508bee89b928ff2834846fb58f25654ffdf624a5b125c5d7eeb3cd6a",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdSentimentReleaseLiquidityGate.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSentimentReleaseLiquidityGate/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSentimentReleaseLiquidityGate/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdSentimentReleaseLiquidityGate/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.83\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdSentimentReleaseLiquidityGate/Debug/net6.0/XAUUSD.algo": "7e25047787bb86b53af94dbaeda80aafa0339648ca12294454cfcaadc8990221"
+      }
+    },
+    {
+      "source": "XauUsdSessionContinuationStrength.cs",
+      "source_sha256": "74064a4add8fe8b83abf1a68914bda20dc0ae3e16f2d5e660f246a2bdab0bd26",
+      "project_sha256": "6068b78d4628aa8150cafa264df65d94b85e2a689804e07747a366e9107b3428",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdSessionContinuationStrength.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSessionContinuationStrength/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSessionContinuationStrength/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdSessionContinuationStrength/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.83\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdSessionContinuationStrength/Debug/net6.0/XAUUSD.algo": "679449ceaff134db32f574bf7808af2afda879cca1f8c2869d43e976d79c828c"
+      }
+    },
+    {
+      "source": "XauUsdSettlementWindowExecution.cs",
+      "source_sha256": "9c303fcc1246f866091a5b9dc79c86b1cd7f36755d3e825459657a45ff6aeeea",
+      "project_sha256": "8c6d6b4841e549f436984195d310995c36088546957042bc6f9be6133a570913",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdSettlementWindowExecution.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSettlementWindowExecution/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSettlementWindowExecution/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdSettlementWindowExecution/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.83\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdSettlementWindowExecution/Debug/net6.0/XAUUSD.algo": "b03edde09fc89bd10ae6138a8578bb96cdf905307539c2cdf69651cda461dbb0"
+      }
+    },
+    {
+      "source": "XauUsdShanghaiNightTransfer.cs",
+      "source_sha256": "16e3841533339c93e9b8ec4842883b9e5a224e876fe6219aca1162c938f29834",
+      "project_sha256": "baf28c7b5177f3a7f1f48a5a9bfab7c1c38ee3a24edb16122bdbe7060592c46a",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdShanghaiNightTransfer.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdShanghaiNightTransfer/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdShanghaiNightTransfer/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdShanghaiNightTransfer/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.76\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdShanghaiNightTransfer/Debug/net6.0/XAUUSD.algo": "f446d8c7cc9c20df26b4ea3a5ede404318d8d9b96bde162e979e81988edb858d"
+      }
+    },
+    {
+      "source": "XauUsdShanghaiPremiumLondonDemand.cs",
+      "source_sha256": "f0da131f72ec05b2f06cb14ac32850f103cea47fd7825156acb5089339c12b53",
+      "project_sha256": "698b119c8666c036c9ef222624bc603f0e26ab57e3962be21890fa2593f03e43",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdShanghaiPremiumLondonDemand.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdShanghaiPremiumLondonDemand/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdShanghaiPremiumLondonDemand/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdShanghaiPremiumLondonDemand/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.84\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdShanghaiPremiumLondonDemand/Debug/net6.0/XAUUSD.algo": "a2d10380ce7a249962995a9bbedc7b0ce6fe8446714e96ee5e0efe3e9495f06a"
+      }
+    },
+    {
+      "source": "XauUsdShanghaiSegmentedVariance.cs",
+      "source_sha256": "0f77e38253f32c32d562134a1e4dae9b5cd70a2eeb711915632dd252cceef30e",
+      "project_sha256": "262c422aa83bc4847dde43601644ad53a7004f27e01b333419f1b910559d861e",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdShanghaiSegmentedVariance.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdShanghaiSegmentedVariance/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdShanghaiSegmentedVariance/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdShanghaiSegmentedVariance/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.81\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdShanghaiSegmentedVariance/Debug/net6.0/XAUUSD.algo": "5fd187561f0b3743e4589938745e4109b9900dd4c2d8b0e50e7fb0eeeb31a868"
+      }
+    },
+    {
+      "source": "XauUsdSlowMovingAverage.cs",
+      "source_sha256": "06799030144e98917566ad3ef46e42847163de93bea13f9a1d2581d267a2c7da",
+      "project_sha256": "496d6911ef2ea59a7bde3cd3be4da97c8f0efc8b4cac0a5f1a736021052c57bf",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdSlowMovingAverage.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSlowMovingAverage/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSlowMovingAverage/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdSlowMovingAverage/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.84\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdSlowMovingAverage/Debug/net6.0/XAUUSD.algo": "fe2d28fcd9098a54e1303b7f6a3e71733a7481c507038d8a617c3d9438a6a717"
+      }
+    },
+    {
+      "source": "XauUsdSlowVarianceMemory.cs",
+      "source_sha256": "bb25babbd0fbe6da037f1c64dd6d7e36506b405cc11936bca85558ac1e2a2154",
+      "project_sha256": "46820d48ea04586c7dda46a4348ef71ea8c232533caedad51a06a9ed2b261328",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdSlowVarianceMemory.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSlowVarianceMemory/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSlowVarianceMemory/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdSlowVarianceMemory/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.92\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdSlowVarianceMemory/Debug/net6.0/XAUUSD.algo": "e16ae21e8f272c684d037898457d34e9740516a7006af4962013ae5d1f9d3849"
+      }
+    },
+    {
+      "source": "XauUsdSplitExecution.cs",
+      "source_sha256": "7bdeeb6bb9ff45ef12560b043e42dca03b8edb70108ed5a7ca20664adabe0aec",
+      "project_sha256": "dd06a0b2fecb7cad91265696467f8786c22fba4a70a3d0b9c26f974b779a7c28",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdSplitExecution.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSplitExecution/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSplitExecution/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdSplitExecution/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.84\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdSplitExecution/Debug/net6.0/XAUUSD.algo": "ebbd31e76a9165d595547213bfaf0750e809449ddf853c06531878808b9a63c6"
+      }
+    },
+    {
+      "source": "XauUsdStandingDepthImbalance.cs",
+      "source_sha256": "6782a124bda561adedfc28d5b901b01bc80ddb08b347f6be924b5f7175f62d82",
+      "project_sha256": "7269e4b8a45b8d1c82c83f766fc720959353d30664a5244f8d18084c561271fc",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdStandingDepthImbalance.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdStandingDepthImbalance/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdStandingDepthImbalance/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdStandingDepthImbalance/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.91\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdStandingDepthImbalance/Debug/net6.0/XAUUSD.algo": "2286cf5a822593d3d2bc77c92a0dbab23cc7b0baafc20e25b8133d827f75081a"
+      }
+    },
+    {
+      "source": "XauUsdStopLimitProtection.cs",
+      "source_sha256": "10713f86d4248c638fb7b686b35225fff1db11e58a2d15ef199021bde6661ba7",
+      "project_sha256": "37733ad4affff65bcd94ade3269b3e532ab8117bb0aab5b7c9b9bc2c61f75793",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdStopLimitProtection.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdStopLimitProtection/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdStopLimitProtection/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdStopLimitProtection/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.99\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdStopLimitProtection/Debug/net6.0/XAUUSD.algo": "4f97225e034823d5a9de6d14ec9fb0b58159bef81d6a6d54f34451b77588f2ae"
+      }
+    },
+    {
+      "source": "XauUsdSurveyDispersionExposureGate.cs",
+      "source_sha256": "699dc51ed1cff284a85302758cfe43ed4acda94bb3273f4bfaaf0bd7dfb6d825",
+      "project_sha256": "0991b21ca6f1d6f448b896fd6bafaa92c8fc9b55f01825ac31371135c4b6815d",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdSurveyDispersionExposureGate.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSurveyDispersionExposureGate/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdSurveyDispersionExposureGate/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdSurveyDispersionExposureGate/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.89\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdSurveyDispersionExposureGate/Debug/net6.0/XAUUSD.algo": "9e6e48dad0e26ba66a7d9bd7ca27588abaef004683610edeb361e7cf18c96b4f"
+      }
+    },
+    {
+      "source": "XauUsdTokyoPressureReversal.cs",
+      "source_sha256": "e5f256e4f41059f58ad4b52b5963364dba24656d029cde8c6cfab6b2c1fc86a6",
+      "project_sha256": "537caabe412d4939f67cbe8298821cabfb50a9cf63815ec302f0faa019f0c3ba",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdTokyoPressureReversal.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdTokyoPressureReversal/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdTokyoPressureReversal/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdTokyoPressureReversal/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.76\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdTokyoPressureReversal/Debug/net6.0/XAUUSD.algo": "f9c4588cadb3bf88a881efa1ff2878efdb7a97fb872d29d14271dec41d0c9a5f"
+      },
+      "revision_note": "EXP017 V2 callback-order fix; rebuilt and synthetic regression checked 2026-11-10"
+    },
+    {
+      "source": "XauUsdTransactionDurationVariance.cs",
+      "source_sha256": "74c62011bcc04fa73df04f7c81527a64a52b0a73f168db26e24791a6249772e7",
+      "project_sha256": "c5e78e98b22c4264958c8eef7c91907dc9c4a78f1dc3ed708a91f0e1165e5c8c",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdTransactionDurationVariance.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdTransactionDurationVariance/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdTransactionDurationVariance/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdTransactionDurationVariance/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.86\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdTransactionDurationVariance/Debug/net6.0/XAUUSD.algo": "8118586d085f7f4b6b5e3a9f7c64c870637cddbdd29a216e0b15cb822b733f31"
+      }
+    },
+    {
+      "source": "XauUsdTreasuryAuctionGoldRebound.cs",
+      "source_sha256": "c232420217e48ab25f58e4f1fcf67ef86a5897fd1b23972a73e4eb8746c93859",
+      "project_sha256": "92e84c103412eabcfe00c5837242d8207c62e5db947e671ce838ba42166bac12",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdTreasuryAuctionGoldRebound.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdTreasuryAuctionGoldRebound/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdTreasuryAuctionGoldRebound/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdTreasuryAuctionGoldRebound/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.89\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdTreasuryAuctionGoldRebound/Debug/net6.0/XAUUSD.algo": "a83572c009e28a5995ed79610047b08c1e55c904272d01390e3f4066143b8bb4"
+      }
+    },
+    {
+      "source": "XauUsdUpsideVariancePremium.cs",
+      "source_sha256": "055f11ab9a6beef3ad1124ba536761a2f9877d4ffbb27055d109f3bd68d570d0",
+      "project_sha256": "5071c2dbaffcc486fe65c8827080a9e3fb772addada553131d1348223cc632e8",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdUpsideVariancePremium.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdUpsideVariancePremium/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdUpsideVariancePremium/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdUpsideVariancePremium/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.93\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdUpsideVariancePremium/Debug/net6.0/XAUUSD.algo": "c04683923246adbcd275fb8b3af2fe86318bbe807bd6471981ca2bdabe5e562c"
+      }
+    },
+    {
+      "source": "XauUsdUsMiddayLateTransfer.cs",
+      "source_sha256": "70ae214abeedd97085c78b1c1f1a52fc3bb118a16a15142086c92c7d4f16fe74",
+      "project_sha256": "d795a672c275e779b32a3e922c590adc48b410360660a001abc46543608162dc",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdUsMiddayLateTransfer.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdUsMiddayLateTransfer/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdUsMiddayLateTransfer/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdUsMiddayLateTransfer/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.75\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdUsMiddayLateTransfer/Debug/net6.0/XAUUSD.algo": "b05a5d734c1f3207c62a6dc97e37557f93ea5c343ebf11781ed4436dcc4bdf88"
+      }
+    },
+    {
+      "source": "XauUsdVolatilityReturnFeedback.cs",
+      "source_sha256": "06ff4cd06780baf0600f40e0d0a519cb50782dab8483231bc1a39ea3f357808a",
+      "project_sha256": "c1a5f65610e5d55844a2267a545f45ae108cdcf7f7eb3f9b451d70ff27b29070",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdVolatilityReturnFeedback.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdVolatilityReturnFeedback/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdVolatilityReturnFeedback/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdVolatilityReturnFeedback/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.87\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdVolatilityReturnFeedback/Debug/net6.0/XAUUSD.algo": "46a15a32ac0609723435519426bda64504d2ec2e61065129ac7d303b354b768e"
+      }
+    },
+    {
+      "source": "XauUsdVwapBandReversion.cs",
+      "source_sha256": "cba706b05bc0858281fc7f012eb103daacab84b1039b04b34b9738c1d43bf609",
+      "project_sha256": "6dd5a5fcae49383b8d648c654e7369e00fbdda2d36a8859439689980de2bbba4",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdVwapBandReversion.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdVwapBandReversion/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdVwapBandReversion/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdVwapBandReversion/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.91\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdVwapBandReversion/Debug/net6.0/XAUUSD.algo": "2e1dd1772f0c4539e949bde395dab82f73dadc91d8d1626d19237cf3c6295f20"
+      }
+    },
+    {
+      "source": "XauUsdVwapPullbackContinuation.cs",
+      "source_sha256": "0dbbc19afd53c81b13e4aa1bf0cf0fa888126fb6f1c58c1ca2f108ba41248a7a",
+      "project_sha256": "c426c180a736ff608232ed5f13f79e27987dcaa0bbe036722db21030bf7e7e75",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdVwapPullbackContinuation.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdVwapPullbackContinuation/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdVwapPullbackContinuation/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdVwapPullbackContinuation/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.88\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdVwapPullbackContinuation/Debug/net6.0/XAUUSD.algo": "b4b8dcbe06d16932417390ff9f558f517233af604fe21a9b9936be5ffe0311af"
+      }
+    },
+    {
+      "source": "XauUsdWeeklyBoundaryQuoteGate.cs",
+      "source_sha256": "5ec9ff2b8a37ebd390e635a3ecf1ec9e7007fd5c60d166b615f35006f92f0fb1",
+      "project_sha256": "f3ecd19fa06ad9d00200dd2bf7d6e72f5342b3b407df3a682aa6f8c78a052b35",
+      "api_sha256": "94069c628fb7bfb6097cd08cbe5b42431ea34f03bd5208697be6451384c91bb3",
+      "source_unchanged": true,
+      "exit_code": 0,
+      "command": [
+        "dotnet",
+        "build",
+        "/Users/beni/Dev/XAUUSD/ctrader/XauUsdWeeklyBoundaryQuoteGate.csproj",
+        "--ignore-failed-sources",
+        "-p:NuGetAudit=false",
+        "-p:AlgoBuild=true",
+        "-p:AlgoPublish=false",
+        "-p:BaseIntermediateOutputPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdWeeklyBoundaryQuoteGate/",
+        "-p:MSBuildProjectExtensionsPath=/Users/beni/Dev/XAUUSD/ctrader/obj/PackagingVerified/XauUsdWeeklyBoundaryQuoteGate/",
+        "-p:BaseOutputPath=/Users/beni/Dev/XAUUSD/ctrader/bin/Packaged/XauUsdWeeklyBoundaryQuoteGate/",
+        "-v",
+        "quiet"
+      ],
+      "output": "\nBuild succeeded.\n    0 Warning(s)\n    0 Error(s)\n\nTime Elapsed 00:00:00.86\n",
+      "packages": {
+        "ctrader/bin/Packaged/XauUsdWeeklyBoundaryQuoteGate/Debug/net6.0/XAUUSD.algo": "7170726d044ce7fa4a35f6d472c53f1fb0b38e9dbf729bfc513bb82deccf7cac"
+      }
+    }
+  ]
+}

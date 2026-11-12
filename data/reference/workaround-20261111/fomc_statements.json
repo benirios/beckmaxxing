@@ -1,0 +1,79 @@
+[
+  {
+    "date": "20250730",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250730a.htm",
+    "header": "For release at 2:00 p.m. EDT",
+    "file": "data/reference/workaround-20261111/fed_20250730.html",
+    "sha256": "fbfbfb979f4f262225fd825a84924a9e564dcbb742b74a8a9f13c021dfd28090"
+  },
+  {
+    "date": "20250822",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250822a.htm",
+    "header": "For release at 10:00 a.m. EDT",
+    "file": "data/reference/workaround-20261111/fed_20250822.html",
+    "sha256": "f04fe032225c54c958ce0bca7e719c38f20649237a81d6ef5880191ece73e6f6"
+  },
+  {
+    "date": "20250917",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm",
+    "header": "For release at 2:00 p.m. EDT",
+    "file": "data/reference/workaround-20261111/fed_20250917.html",
+    "sha256": "471c1448240b9566643c821899f8ed8cd7888b0b013555e9ea117053beabf599"
+  },
+  {
+    "date": "20251029",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a.htm",
+    "header": "For release at 2:00 p.m. EDT",
+    "file": "data/reference/workaround-20261111/fed_20251029.html",
+    "sha256": "8173510b34815d34b704b7ebab9c7b30500bd539abc3055c85bb0d64542e78f2"
+  },
+  {
+    "date": "20251210",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm",
+    "header": "For release at 2:00 p.m. EST",
+    "file": "data/reference/workaround-20261111/fed_20251210.html",
+    "sha256": "7025464bada43b0806dfddd583d74d27d3c7d04707ca93a0632f9eaae99a14d1"
+  },
+  {
+    "date": "20260128",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm",
+    "header": "For release at 2:00 p.m. EST",
+    "file": "data/reference/workaround-20261111/fed_20260128.html",
+    "sha256": "4f0706b07d3f496721e5cd895d5bedf23f6e594d84f087ebefbcb0e3c50fd5fa"
+  },
+  {
+    "date": "20260318",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm",
+    "header": "For release at 2:00 p.m. EDT",
+    "file": "data/reference/workaround-20261111/fed_20260318.html",
+    "sha256": "0b86e59913ad0baf419f6298cd503e529ac510f3306490d2ecc60d4f80b601a2"
+  },
+  {
+    "date": "20260429",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
+    "header": "For release at 2:00 p.m. EDT",
+    "file": "data/reference/workaround-20261111/fed_20260429.html",
+    "sha256": "b3247a59c0dd2163a20a3d0574a804f0eb169542065d2bf031b03d4256264566"
+  },
+  {
+    "date": "20260617",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+    "header": "For release at 2:00 p.m. EDT",
+    "file": "data/reference/workaround-20261111/fed_20260617.html",
+    "sha256": "4b26cdd5c5b6ec4c0ba162736d14f1a26654cda36f77880b68439c4ca1649f18"
+  },
+  {
+    "date": "20260729",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+    "header": "For release at 2:00 p.m. EDT",
+    "file": "data/reference/workaround-20261111/fed_20260729.html",
+    "sha256": "8d5a22bcb09329df21fe67e0a83154e57b833ae4906ba044852b46821c4cdcfe"
+  },
+  {
+    "date": "20260916",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "header": "For release at 2:00 p.m. EDT",
+    "file": "data/reference/workaround-20261111/fed_20260916.html",
+    "sha256": "03073b3b3448a36c9685509a9a28d298d5abcb361e0b420dabda6dcbba4628aa"
+  }
+]

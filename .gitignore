@@ -1,0 +1,48 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+.obsidian/workspace*.json
+.archive/
+tmp/
+ctrader/bin/
+ctrader/obj/
+research-cs/bin/
+research-cs/obj/
+
+# Superseded nested vault created before the repository root was opened.
+/ORB XAUUSD RESEARCH/
+
+# Market data and generated research artifacts are local by default.
+data/raw/*
+data/processed/*
+outputs/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!outputs/.gitkeep
+
+
+# Private editor state, authentication files and generated attempt notes.
+.obsidian/
+.env
+.env.*
+!.env.example
+*.pwd
+agent-session.json
+/04 - Planning/Lab run *.md
+/04 - Planning/Backtest Lab Results.md
+
+# Native build output at any project depth.
+**/bin/
+**/obj/
+
+# Frontend development dependencies.
+node_modules/
+
+# Downloaded third-party reference documents stay local; retain provenance metadata.
+data/reference/**/*.html
+data/reference/**/*.pdf
+
+# Python packaging metadata.
+*.egg-info/

@@ -1,0 +1,40 @@
+{
+  "nyse": {
+    "url": "https://www.nyse.com/trade/hours-calendars",
+    "path": "data/reference/workaround-20261111/nyse.html",
+    "sha256": "02ebfc58799885615ff744388887d0d656716bca6f4fd5c49721496fc6e28759"
+  },
+  "nyse_2025_2027": {
+    "url": "https://s2.q4cdn.com/154085107/files/doc_news/NYSE-Group-Announces-2025-2026-and-2027-Holiday-and-Early-Closings-Calendar-2024.pdf",
+    "path": "data/reference/workaround-20261111/nyse_2025_2027.pdf",
+    "sha256": "6d719aaaf827c909f362725293c8e932f1b879687e4705eeb8a16f7201fe3355"
+  },
+  "shfe2025": {
+    "url": "https://www.shfe.com.cn/eng/CircularNews/Circular/202412/t20241223_827504.html",
+    "path": "data/reference/workaround-20261111/shfe2025.html",
+    "sha256": "b44d08ae8649468dabaf4a4b4e5e28bd2cd6cee74ed36b676c083bc2e5fbf55a"
+  },
+  "shfe2026": {
+    "url": "https://www.shfe.cn/eng/reports/CalendarHolidays/Holiday/",
+    "path": "data/reference/workaround-20261111/shfe2026.html",
+    "sha256": "6830f50c73734c2bf3d38c0468dfc4b07c453b16007bf258d74d56033257e5cb"
+  },
+  "fomc": {
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "path": "data/reference/workaround-20261111/fomc.html",
+    "sha256": "a86feb587a6881bd58a8ea83ff40296810bf69ee701cc12188e4c27ae2047835"
+  },
+  "bls_cpi": {
+    "url": "https://www.bls.gov/bls/news-release/cpi.htm",
+    "error": "403 Client Error: Forbidden for url: https://www.bls.gov/bls/news-release/cpi.htm"
+  },
+  "bls_empsit": {
+    "url": "https://www.bls.gov/bls/news-release/empsit.htm",
+    "error": "403 Client Error: Forbidden for url: https://www.bls.gov/bls/news-release/empsit.htm"
+  },
+  "ma_paper": {
+    "url": "https://eprints.soton.ac.uk/411993/",
+    "path": "data/reference/workaround-20261111/ma_paper.html",
+    "sha256": "3939ad795c982e3ed343780e8435cc6313b1a121d569967cf9466f15b34b03f7"
+  }
+}
